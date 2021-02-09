@@ -26,7 +26,7 @@ If you want to know more about our team and the tech team in general, take a loo
 
 # 11th, February 2021
 
-## Learning of the week
+## Bits of learning
 
 *"Optimizing your database the right way is never a waste of time"*
 
@@ -34,7 +34,13 @@ The last couple of weeks, we have been experiencing 40+ millions IOPS in some of
 
 *By Thomas, head of engineering*
 
-## 5 links that are worth checking out
+## 5 links to take away
+
+1. Library // [Pomerium](https://github.com/pomerium/pomerium)
+2. Article // [The styled-components happy path](https://www.joshwcomeau.com/css/styled-components/)
+3. Tool // [Jam](https://jam.dev)
+4. Article // [Improving how we deploy GitHub](https://github.blog/2021-01-25-improving-how-we-deploy-github/)
+5. Article // [How (some) good corporate engneering blogs are written](https://danluu.com/corp-eng-blogs/)
 
 ## Good vibes
 
