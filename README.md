@@ -1,4 +1,4 @@
-# Welcome-bits WIP
+# Welcome-bits
 
 <details>
 <summary>What is Welcome to the Jungle</summary>
@@ -40,7 +40,7 @@ The team is composed of back-end, full-stack and front-end developers, as well a
 If you want to know more about our team and the tech team in general, take a look at <a href="https://youtu.be/9QAV5r-sFhI">the filmed interview of Kevin</a>, our beloved CTO.</p>
 </details>
 
-# Bits #1
+# Welcome Bits #1
 
 ## Bits of learning
 
