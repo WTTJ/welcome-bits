@@ -2,7 +2,7 @@
 
 Welcome dear \<reader>!
 
-Every week, we, as the engineering team at Welcome to the Jungle, will share news about our tech products as well as details about the technical topics we've been working on. The newsletter will also include a curated list of the most interesting links we found out there in the wild wild web.
+Every week, we, as the engineering team at Welcome to the Jungle, will share news about our tech products as well as details about the technical topics we've been working on. The newsletter, called Welcome Bits, will also include a curated list of the most interesting links we found out there in the wild wild web.
 
 This newsletter is quite new, so your suggestions, questions and comments are more than welcome! Send us an issue or a pull request to do so.
 
