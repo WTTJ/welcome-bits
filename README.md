@@ -6,8 +6,6 @@
 
 **Every week, we, as the engineering team at Welcome to the Jungle, will share news about our tech products as well as details about the technical topics we've been working on. The newsletter, called Welcome Bits, will also include a curated list of the most interesting links we found out there in the wild wild web.**
 
-*This newsletter is quite new, so your suggestions, questions and comments are more than welcome! Send us an issue or a pull request to do so.*
-
 <details>
 <summary>What is Welcome to the Jungle</summary>
 <p>
@@ -38,6 +36,8 @@ The team is composed of back-end, full-stack and front-end developers, as well a
 
 If you want to know more about our team and the tech team in general, take a look at <a href="https://youtu.be/9QAV5r-sFhI">the filmed interview of Kevin</a>, our beloved CTO.</p>
 </details>
+
+*This newsletter is quite new, so your suggestions, questions and comments are more than welcome! Send us an issue or a pull request to do so.*
 
 # Welcome Bits #1
 
