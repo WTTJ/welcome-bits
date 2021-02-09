@@ -1,5 +1,11 @@
 # Welcome-bits
 
+Welcome dear <reader>!
+
+Every week, we, as the engineering team at Welcome to the Jungle, will share news about our tech products as well as details about the technical topics we've been working on. The newsletter will also include a curated list of the most interesting links we found out there in the wild wild web.
+
+This newsletter is quite new, so your suggestions, questions and comments are more than welcome! Send us an issue or a pull request to do so.
+
 <details>
 <summary>What is Welcome to the Jungle</summary>
 <p>
@@ -14,15 +20,6 @@
 Learning and sharing knowledge is part of the engineering team DNA. Since the beginning, Jungle Labs sessions are for instance organized each month so that developers in the team can spend a day away from their daily tasks to learn new stuff, grow technically, and share it with the rest of the team (which is not always an easy exercice for the shyest people among us).
 
 So it seemed part of a continuing process to extend this learning and sharing experience to the outside world, meaning you, dear readers. And we hope you will enjoy reading it as much as we enjoyed writing it!</p>
-</details>
-
-<details>
-<summary>What you will find in Welcome Bits</summary>
-<p>
-
-Every week, we will share news about our tech products as well as details about the technical topics we've been working on. The newsletter will also include a curated list of the more interesting links we found out there in the wild wild web.
-
-This newsletter is quite new, so your suggestions, questions and comments are more than welcome! Send us an issue or a pull request to do so.</p>
 </details>
 
 <details>
