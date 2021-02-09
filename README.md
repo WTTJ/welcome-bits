@@ -1,28 +1,44 @@
 # Welcome-bits WIP
 
-## What is Welcome to the Jungle
-[Welcome to the Jungle](https://www.welcometothejungle.com/fr) is a company creating the new experience at work. We use content and technology to transform every step of the employee experience to help companies offer a better, more human experience in the workplace.
+<details>
+<summary>What is Welcome to the Jungle</summary>
+<p>
 
-## Why we decided to create Welcome Bits
+<a href="https://www.welcometothejungle.com/fr">Welcome to the Jungle</a> is a company creating the new experience at work. We use content and technology to transform every step of the employee experience to help companies offer a better, more human experience in the workplace.</p>
+</details>
+
+<details>
+<summary>Why we decided to create Welcome Bits</summary>
+<p>
+  
 Learning and sharing knowledge is part of the engineering team DNA. Since the beginning, Jungle Labs sessions are for instance organized each month so that developers in the team can spend a day away from their daily tasks to learn new stuff, grow technically, and share it with the rest of the team (which is not always an easy exercice for the shyest people among us).
 
-So it seemed part of a continuing process to extend this learning and sharing experience to the outside world, meaning you, dear readers. And we hope you will enjoy reading it as much as we enjoyed writing it!
+So it seemed part of a continuing process to extend this learning and sharing experience to the outside world, meaning you, dear readers. And we hope you will enjoy reading it as much as we enjoyed writing it!</p>
+</details>
 
-## What you will find in Welcome Bits
+<details>
+<summary>What you will find in Welcome Bits</summary>
+<p>
+
 Every week, we will share news about our tech products as well as details about the technical topics we've been working on. The newsletter will also include a curated list of the more interesting links we found out there in the wild wild web.
 
-This newsletter is quite new, so your suggestions, questions and comments are more than welcome! Send us an issue or a pull request to do so.
+This newsletter is quite new, so your suggestions, questions and comments are more than welcome! Send us an issue or a pull request to do so.</p>
+</details>
 
-## The engineering team behind Welcome Bits
+<details>
+<summary>The engineering team behind Welcome Bits</summary>
+<p>
+  
 We are currently 14 developers in the engineering team itself, which is part of a bigger team called (what a surprise) "the tech team" where there are also product, data, design and QA people.
 
-There are unfortunately only men right now in the engineering team, but as diversity is a value dear to our heart, our tech recruiter Xavier is working hard to hire women. If you are a woman who code, please check [our current opened positions](https://www.welcometothejungle.com/fr/companies/wttj/jobs) and apply if you are interested!
+There are unfortunately only men right now in the engineering team, but as diversity is a value dear to our heart, our tech recruiter Xavier is working hard to hire women. If you are a woman who code, please check <a href="https://www.welcometothejungle.com/fr/companies/wttj/jobs">our current opened positions</a> and apply if you are interested!
 
 The company is based in Paris, France, but 65% of us are working in full remote mode, which means that some of us can code while enjoying a beautiful view on the mountains or the ocean.
 
-The team is composed of back-end, full-stack and front-end developers, as well as one devOps engineer and one head of engineering. We are working with Elixir, Ruby and React JS among others (you can check [our full stack](https://www.welcometothejungle.com/fr/companies/wttj/tech) for more details).
+The team is composed of back-end, full-stack and front-end developers, as well as one devOps engineer and one head of engineering. We are working with Elixir, Ruby and React JS among others (you can check <a href="https://www.welcometothejungle.com/fr/companies/wttj/tech">our full stack</a> for more details).
 
-If you want to know more about our team and the tech team in general, take a look at [the filmed interview of Kevin](https://youtu.be/9QAV5r-sFhI), our beloved CTO.
+If you want to know more about our team and the tech team in general, take a look at <a href="https://youtu.be/9QAV5r-sFhI">the filmed interview of Kevin</a>, our beloved CTO.</p>
+</details>
 
 # 11th, February 2021
 
