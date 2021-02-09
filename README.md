@@ -67,7 +67,7 @@ I was looking for a way to install a VPN to access our preproduction environment
   <Summary>Details</Summary>
   <p>
     
-*By François, devOps engineer*
+*By François, front-end developer*
     
 I really like Josh Comeau's blog posts about React and CSS because they are at a time qualitative, simple and interactive. His latest article about the best practices for styled-components was in particular very useful to me as it presents ways to lighten and simplify CSS files thanks to CSS variables and single source of styles.
   </p>
