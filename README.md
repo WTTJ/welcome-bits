@@ -6,7 +6,7 @@
 
 **Every week, we, as the engineering team at Welcome to the Jungle, will share news about our tech products as well as details about the technical topics we've been working on. The newsletter, called Welcome Bits, will also include a curated list of the most interesting links we found out there in the wild wild web.**
 
-***This newsletter is quite new, so your suggestions, questions and comments are more than welcome! Send us an issue or a pull request to do so.***
+*This newsletter is quite new, so your suggestions, questions and comments are more than welcome! Send us an issue or a pull request to do so.*
 
 <details>
 <summary>What is Welcome to the Jungle</summary>
@@ -51,11 +51,32 @@ The last couple of weeks, we have been experiencing 40+ millions IOPS in some of
 
 ## Bits of content
 
-1. [Pomerium](https://github.com/pomerium/pomerium) [![Generic badge](https://img.shields.io/badge/-OpenVPN%20alternative-brightgreen)]() [![Generic badge](https://img.shields.io/badge/-Kubernetes%20API%20Proxy-blue)]() [![Generic badge](https://img.shields.io/badge/-Identity%20and%20policy%20management-red)]()
-2. [The styled-components happy path](https://www.joshwcomeau.com/css/styled-components/) [![Generic badge](https://img.shields.io/badge/-Josh%20Comeau-yellow)]() [![Generic badge](https://img.shields.io/badge/-Lighter%20CSS%20files-red)]() [![Generic badge](https://img.shields.io/badge/-CSS%20variables-blue)]() [![Generic badge](https://img.shields.io/badge/-Single%20source%20of%20styles-brightgreen)]()
-3. [Jam](https://jam.dev) [![Generic badge](https://img.shields.io/badge/-Building%20websites-brightgreen)]() [![Generic badge](https://img.shields.io/badge/-Collaborative-yellow)]() [![Generic badge](https://img.shields.io/badge/-Beta-lightgrey)]()
-4. [Improving how we deploy GitHub](https://github.blog/2021-01-25-improving-how-we-deploy-github/) [![Generic badge](https://img.shields.io/badge/-Slack-blue)]() [![Generic badge](https://img.shields.io/badge/-Overview%20of%20deploys-red)]() [![Generic badge](https://img.shields.io/badge/-Automation-brightgreen)]()
-5. [How (some) good corporate engneering blogs are written](https://danluu.com/corp-eng-blogs/) [![Generic badge](https://img.shields.io/badge/-Engineering%20blogs-brightgreen)]() [![Generic badge](https://img.shields.io/badge/-Best%20practices-yellow)]() [![Generic badge](https://img.shields.io/badge/-Cloudflare-blue)]() [![Generic badge](https://img.shields.io/badge/-Segment-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Heap-red)]()
+[Pomerium](https://github.com/pomerium/pomerium) [![Generic badge](https://img.shields.io/badge/-OpenVPN%20alternative-brightgreen)]() [![Generic badge](https://img.shields.io/badge/-Kubernetes%20API%20Proxy-blue)]() [![Generic badge](https://img.shields.io/badge/-Identity%20and%20policy%20management-red)]()
+<Details>
+  <Summary>Details</Summary>
+  <p>
+    
+*By Charles, devOps engineer*
+    
+I was looking for a way to install a VPN to access our preproduction environment. We currently need multiple logins and passwords to access it, which is painful,    and some of my teammates have dynamic public IPs, so this kind of filter can't be used either. I already knew the solution OpenVPN but it required to install additional tools to be able to manage identity aspects and policies access. That's how I found out pomerium that seems promising, as it is more comprehensive and has a Kubernetes API proxy.
+  </p>
+</Details>
+
+[The styled-components happy path](https://www.joshwcomeau.com/css/styled-components/) [![Generic badge](https://img.shields.io/badge/-Josh%20Comeau-yellow)]() [![Generic badge](https://img.shields.io/badge/-Lighter%20CSS%20files-red)]() [![Generic badge](https://img.shields.io/badge/-CSS%20variables-blue)]() [![Generic badge](https://img.shields.io/badge/-Single%20source%20of%20styles-brightgreen)]()
+<Details>
+  <Summary>Details</Summary>
+  <p>
+    
+*By François, devOps engineer*
+    
+I really like Josh Comeau's blog posts about React and CSS because they are at a time qualitative, simple and interactive. His latest article about the best practices for styled-components was in particular very useful to me as it presents ways to lighten and simplify CSS files thanks to CSS variables and single source of styles.
+  </p>
+</Details>
+
+[Jam](https://jam.dev) [![Generic badge](https://img.shields.io/badge/-Building%20websites-brightgreen)]() [![Generic badge](https://img.shields.io/badge/-Collaborative-yellow)]() [![Generic badge](https://img.shields.io/badge/-Beta-lightgrey)]()
+[Improving how we deploy GitHub](https://github.blog/2021-01-25-improving-how-we-deploy-github/) [![Generic badge](https://img.shields.io/badge/-Slack-blue)]() [![Generic badge](https://img.shields.io/badge/-Overview%20of%20deploys-red)]() [![Generic badge](https://img.shields.io/badge/-Automation-brightgreen)]()
+
+[How (some) good corporate engneering blogs are written](https://danluu.com/corp-eng-blogs/) [![Generic badge](https://img.shields.io/badge/-Engineering%20blogs-brightgreen)]() [![Generic badge](https://img.shields.io/badge/-Best%20practices-yellow)]() [![Generic badge](https://img.shields.io/badge/-Cloudflare-blue)]() [![Generic badge](https://img.shields.io/badge/-Segment-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Heap-red)]()
 
 ## Bits of good vibes
 
