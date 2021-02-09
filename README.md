@@ -36,12 +36,11 @@ The last couple of weeks, we have been experiencing 40+ millions IOPS in some of
 
 ## 5 links to take away
 
-1. Library // [Pomerium](https://github.com/pomerium/pomerium)
-[![Generic badge](https://img.shields.io/badge/-OpenVPN%20alternative-brightgreen)]() [![Generic badge](https://img.shields.io/badge/-Kubernetes%20API%20Proxy-blue)]() [![Generic badge](https://img.shields.io/badge/-Identity%20and%20policy%20management-red)]()
-2. Article // [The styled-components happy path](https://www.joshwcomeau.com/css/styled-components/)
-3. Tool // [Jam](https://jam.dev)
-4. Article // [Improving how we deploy GitHub](https://github.blog/2021-01-25-improving-how-we-deploy-github/)
-5. Article // [How (some) good corporate engneering blogs are written](https://danluu.com/corp-eng-blogs/)
+1. [Pomerium](https://github.com/pomerium/pomerium) [![Generic badge](https://img.shields.io/badge/-OpenVPN%20alternative-brightgreen)]() [![Generic badge](https://img.shields.io/badge/-Kubernetes%20API%20Proxy-blue)]() [![Generic badge](https://img.shields.io/badge/-Identity%20and%20policy%20management-red)]()
+2. [The styled-components happy path](https://www.joshwcomeau.com/css/styled-components/) [![Generic badge](https://img.shields.io/badge/-Josh%20Comeau-yellow)]() [![Generic badge](https://img.shields.io/badge/-Lighter%20CSS%20files-red)]() [![Generic badge](https://img.shields.io/badge/-CSS%20variables-blue)]() [![Generic badge](https://img.shields.io/badge/-Single%20source%20of%20styles-brightgreen)]()
+3. [Jam](https://jam.dev) [![Generic badge](https://img.shields.io/badge/-Building%20websites-brightgreen)]() [![Generic badge](https://img.shields.io/badge/-Collaborative-yellow)]() [![Generic badge](https://img.shields.io/badge/-Beta-lightgrey)]()
+4. [Improving how we deploy GitHub](https://github.blog/2021-01-25-improving-how-we-deploy-github/) [![Generic badge](https://img.shields.io/badge/-Slack-blue)]() [![Generic badge](https://img.shields.io/badge/-Overview%20of%20deploys-red)]() [![Generic badge](https://img.shields.io/badge/-Automation-brightgreen)]()
+5. [How (some) good corporate engneering blogs are written](https://danluu.com/corp-eng-blogs/) [![Generic badge](https://img.shields.io/badge/-Engineering%20blogs-brightgreen)]() [![Generic badge](https://img.shields.io/badge/-Best%20practices-yellow)]() [![Generic badge](https://img.shields.io/badge/-Cloudflare-blue)]() [![Generic badge](https://img.shields.io/badge/-Segment-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Heap-red)]()
 
 ## Good vibes
 
