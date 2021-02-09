@@ -50,7 +50,7 @@ The last couple of weeks, we have been experiencing 40+ millions IOPS in some of
 
 *By Thomas, head of engineering*
 
-## 5 links to take away
+## Bits of content
 
 1. [Pomerium](https://github.com/pomerium/pomerium) [![Generic badge](https://img.shields.io/badge/-OpenVPN%20alternative-brightgreen)]() [![Generic badge](https://img.shields.io/badge/-Kubernetes%20API%20Proxy-blue)]() [![Generic badge](https://img.shields.io/badge/-Identity%20and%20policy%20management-red)]()
 2. [The styled-components happy path](https://www.joshwcomeau.com/css/styled-components/) [![Generic badge](https://img.shields.io/badge/-Josh%20Comeau-yellow)]() [![Generic badge](https://img.shields.io/badge/-Lighter%20CSS%20files-red)]() [![Generic badge](https://img.shields.io/badge/-CSS%20variables-blue)]() [![Generic badge](https://img.shields.io/badge/-Single%20source%20of%20styles-brightgreen)]()
@@ -58,11 +58,11 @@ The last couple of weeks, we have been experiencing 40+ millions IOPS in some of
 4. [Improving how we deploy GitHub](https://github.blog/2021-01-25-improving-how-we-deploy-github/) [![Generic badge](https://img.shields.io/badge/-Slack-blue)]() [![Generic badge](https://img.shields.io/badge/-Overview%20of%20deploys-red)]() [![Generic badge](https://img.shields.io/badge/-Automation-brightgreen)]()
 5. [How (some) good corporate engneering blogs are written](https://danluu.com/corp-eng-blogs/) [![Generic badge](https://img.shields.io/badge/-Engineering%20blogs-brightgreen)]() [![Generic badge](https://img.shields.io/badge/-Best%20practices-yellow)]() [![Generic badge](https://img.shields.io/badge/-Cloudflare-blue)]() [![Generic badge](https://img.shields.io/badge/-Segment-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Heap-red)]()
 
-## Good vibes
+## Bits of good vibes
 
 Our open-source customizable design system with react styled-components, styled-system and reakit, named [Welcome UI](https://github.com/WTTJ/welcome-ui), just reached 248 stars on GitHub! Don't hesitate to use it and/or contribute.
 
-## We want you!
+## Bits of jobs
 
 There are currently 5 positions opened in the engineering team:
 
