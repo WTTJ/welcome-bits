@@ -43,9 +43,9 @@ If you want to know more about our team and the tech team in general, take a loo
 
 ## Bits of learning
 
-> "Optimizing your database the right way is never a waste of time"
+"Optimizing your database the right way is never a waste of time"
 
-The last couple of weeks, we have been experiencing 40+ millions IOPS in some of our databases. Our first instinct was to check if any microservice was responsible for the high throughput, then we investigated AWS replicas and finally we went after all the releases that were made in the last 6 months to look for any breaking change. But the answer to our performance issues was not there... So we started to look closer at the databases. We identified a lack of optimisation and relevant indexes, and started to log slow queries and implement [pghero](https://github.com/ankane/pghero). After a few optimizations, we managed to divide by two our IOPS on our main database!
+> The last couple of weeks, we have been experiencing 40+ millions IOPS in some of our databases. Our first instinct was to check if any microservice was responsible for the high throughput, then we investigated AWS replicas and finally we went after all the releases that were made in the last 6 months to look for any breaking change. But the answer to our performance issues was not there... So we started to look closer at the databases. We identified a lack of optimisation and relevant indexes, and started to log slow queries and implement [pghero](https://github.com/ankane/pghero). After a few optimizations, we managed to divide by two our IOPS on our main database!
 
 *By Thomas, head of engineering*
 
