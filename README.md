@@ -89,7 +89,7 @@ If you want to know more about our team and the tech team in general, take a loo
 
 This week, the team spent some time during our Jungle Labs session exploring **visual testing** as we would like to implement it on [Welcome UI](https://github.com/WTTJ/welcome-ui). More specifically, we would like to be able to visually test the displayed components on the Welcome UI documentation, knowing that components can be in different documentation pages.
 
-We chose to test the **cypress plugin** which allow to automatize the visual tests. 
+We chose to test the **[cypress plugin](https://docs.cypress.io/guides/tooling/visual-testing.html#Functional-vs-visual-testing)** which allow to automatize the visual tests. 
 
 Here is our condensed feedback about the cypress plugin:
 
@@ -105,7 +105,7 @@ Comparison is done pixel by pixel, so results are sometimes random. A threshold 
 - Limited debugging:
 Differential snapshops are useful to indicate that there is an issue but thet are not clear enough to help with the analysis of the difference.
 
-### A concrete example with the breadcrumb component
+### A concrete example on the breadcrumb component
 - The visual test is executed for each line of the table and will then modify the application design:
 
 ![Screenshot](screenshot_test_cypress_plugin.png)
