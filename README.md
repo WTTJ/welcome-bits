@@ -57,7 +57,7 @@ If you want to know more about our team and the tech team in general, take a loo
 
 ## Bits of contents
 
-[Pomerium](https://github.com/pomerium/pomerium) [![Generic badge](https://img.shields.io/badge/-OpenVPN%20alternative-brightgreen)]() [![Generic badge](https://img.shields.io/badge/-Kubernetes%20API%20Proxy-blue)]() [![Generic badge](https://img.shields.io/badge/-Identity%20and%20policy%20management-red)]()
+[Pomerium](https://github.com/pomerium/pomerium) [![Generic badge](https://img.shields.io/badge/-OpenVPN%20alternative-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Kubernetes%20API%20Proxy-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Identity%20and%20policy%20management-lightgrey)]()
 <Details>
   <Summary>Details</Summary>
   <p>
@@ -68,7 +68,7 @@ If you want to know more about our team and the tech team in general, take a loo
   </p>
 </Details>
 
-[The styled-components happy path](https://www.joshwcomeau.com/css/styled-components/) [![Generic badge](https://img.shields.io/badge/-Josh%20Comeau-yellow)]() [![Generic badge](https://img.shields.io/badge/-Lighter%20CSS%20files-red)]() [![Generic badge](https://img.shields.io/badge/-CSS%20variables-blue)]() [![Generic badge](https://img.shields.io/badge/-Single%20source%20of%20styles-brightgreen)]()
+[The styled-components happy path](https://www.joshwcomeau.com/css/styled-components/) [![Generic badge](https://img.shields.io/badge/-Josh%20Comeau-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Lighter%20CSS%20files-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-CSS%20variables-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Single%20source%20of%20styles-lightgrey)]()
 <Details>
   <Summary>Details</Summary>
   <p>
@@ -79,11 +79,11 @@ If you want to know more about our team and the tech team in general, take a loo
   </p>
 </Details>
 
-[Jam](https://jam.dev) [![Generic badge](https://img.shields.io/badge/-Building%20websites-brightgreen)]() [![Generic badge](https://img.shields.io/badge/-Collaborative-yellow)]() [![Generic badge](https://img.shields.io/badge/-Beta-lightgrey)]()
+[Jam](https://jam.dev) [![Generic badge](https://img.shields.io/badge/-Building%20websites-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Collaborative-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Beta-lightgrey)]()
 
-[Improving how we deploy GitHub](https://github.blog/2021-01-25-improving-how-we-deploy-github/) [![Generic badge](https://img.shields.io/badge/-Slack-blue)]() [![Generic badge](https://img.shields.io/badge/-Overview%20of%20deploys-red)]() [![Generic badge](https://img.shields.io/badge/-Automation-brightgreen)]()
+[Improving how we deploy GitHub](https://github.blog/2021-01-25-improving-how-we-deploy-github/) [![Generic badge](https://img.shields.io/badge/-Slack-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Overview%20of%20deploys-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Automation-lightgrey)]()
 
-[How (some) good corporate engneering blogs are written](https://danluu.com/corp-eng-blogs/) [![Generic badge](https://img.shields.io/badge/-Engineering%20blogs-brightgreen)]() [![Generic badge](https://img.shields.io/badge/-Best%20practices-yellow)]() [![Generic badge](https://img.shields.io/badge/-Cloudflare-blue)]() [![Generic badge](https://img.shields.io/badge/-Segment-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Heap-red)]()
+[How (some) good corporate engneering blogs are written](https://danluu.com/corp-eng-blogs/) [![Generic badge](https://img.shields.io/badge/-Engineering%20blogs-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Best%20practices-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Cloudflare-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Segment-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Heap-lightgrey)]()
 
 ## Bits of good vibes
 
