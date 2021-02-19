@@ -105,12 +105,12 @@ Comparison is done pixel by pixel, so results are sometimes random. A threshold 
 - Limited debugging:
 Differential snapshops are useful to indicate that there is an issue but thet are not clear enough to help with the analysis of the difference.
 
-### A concrete example with the component "breadcrumb"
+### A concrete example with the breadcrumb component
 - The visual test is executed for each line of the table and will then modify the application design:
 
 ![Screenshot](screenshot_test_cypress_plugin.png)
 
-- Here is the snapshot obtained when a difference in the text of the "breadcrumb" component is found:
+- Here is the snapshot obtained when a difference in the text of the breadcrumb component is found:
 
 ![Snapshot](snapshot_diff_cypress_plugin.png)
 
