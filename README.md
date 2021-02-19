@@ -108,9 +108,11 @@ Differential snapshops are useful to indicate that there is an issue but thet ar
 ### A concrete example with the component "breadcrumb"
 - The visual test is executed for each line of the table and will then modify the application design:
 
+![Screenshot](screenshot_test_cypress_plugin.png)
 
 - Here is the snapshot obtained when a difference in the text of the "breadcrumb" component is found:
 
+![Snapshot](snapshot_diff_cypress_plugin.png)
 
 ## Bits of good vibes
 
