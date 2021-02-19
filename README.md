@@ -2,6 +2,8 @@
 
 ![Logo](WTTJ_Logo_Black_RGB.png)
 
+[![Generic badge](https://img.shields.io/badge/Opened positions-5-green)](https://www.welcometothejungle.com/fr/companies/wttj/jobs) [![Generic badge](https://img.shields.io/badge/Articles on engineering blog-6-grey)](https://medium.com/wttj-tech) [![Generic badge](https://img.shields.io/badge/Frequency-Weekly-blue)]()
+
 **Welcome dear \<reader>!**
 
 **Every week, we, as the engineering team at Welcome to the Jungle, will share news about our tech products as well as details about the technical topics we've been working on. The newsletter, called Welcome Bits, will also include a curated list of the most interesting links we found out there in the wild wild web.**
@@ -41,7 +43,7 @@ If you want to know more about our team and the tech team in general, take a loo
 
 # Welcome Bits #1
 
-## Bits of learning
+## Bits of learnings
 
 "Optimizing your database the right way is never a waste of time"
 
@@ -49,7 +51,7 @@ If you want to know more about our team and the tech team in general, take a loo
 
 *By Thomas, head of engineering*
 
-## Bits of content
+## Bits of contents
 
 [Pomerium](https://github.com/pomerium/pomerium) [![Generic badge](https://img.shields.io/badge/-OpenVPN%20alternative-brightgreen)]() [![Generic badge](https://img.shields.io/badge/-Kubernetes%20API%20Proxy-blue)]() [![Generic badge](https://img.shields.io/badge/-Identity%20and%20policy%20management-red)]()
 <Details>
