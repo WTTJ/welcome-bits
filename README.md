@@ -100,8 +100,17 @@ Here is our condensed feedback about the cypress plugin:
 - Web browsers and screen resolution sensitive
 
 ### Limitations
-- Too sensitive: comparison is done pixel by pixel, so results are sometimes random. A threshold could be implemented to reduce the sensibility but its implementation could hide true anomalies.
-- No easy debugging: differential snapshops are not clear enough regarding the analysis of the difference
+- Too sensitive: 
+Comparison is done pixel by pixel, so results are sometimes random. A threshold could be implemented to reduce the sensibility but it could hide true anomalies.
+- Limited debugging:
+Differential snapshops are useful to indicate that there is an issue but thet are not clear enough to help with the analysis of the difference.
+
+### A concrete example with the component "breadcrumb"
+- The visual test is executed for each line of the table and will then modify the application design:
+
+
+- Here is the snapshot obtained when a difference in the text of the "breadcrumb" component is found:
+
 
 ## Bits of good vibes
 
