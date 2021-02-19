@@ -58,26 +58,8 @@ If you want to know more about our team and the tech team in general, take a loo
 ## Bits of contents
 
 [Pomerium](https://github.com/pomerium/pomerium) [![Generic badge](https://img.shields.io/badge/-OpenVPN%20alternative-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Kubernetes%20API%20Proxy-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Identity%20and%20policy%20management-lightgrey)]()
-<Details>
-  <Summary>Details</Summary>
-  <p>
-    
-*By Charles, devOps engineer*
-    
-> I was looking for a way to install a VPN to access our preproduction environment. We currently need multiple logins and passwords to access it, which is painful,    and some of my teammates have dynamic public IPs, so this kind of filter can't be used either. I already knew the solution OpenVPN but it required to install additional tools to be able to manage identity aspects and policies access. That's how I found out pomerium that seems promising, as it is more comprehensive and has a Kubernetes API proxy.
-  </p>
-</Details>
 
 [The styled-components happy path](https://www.joshwcomeau.com/css/styled-components/) [![Generic badge](https://img.shields.io/badge/-Josh%20Comeau-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Lighter%20CSS%20files-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-CSS%20variables-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Single%20source%20of%20styles-lightgrey)]()
-<Details>
-  <Summary>Details</Summary>
-  <p>
-    
-*By François, front-end developer*
-    
-> I really like Josh Comeau's blog posts about React and CSS because they are at a time qualitative, simple and interactive. His latest article about the best practices for styled-components was in particular very useful to me as it presents ways to lighten and simplify CSS files thanks to CSS variables and single source of styles.
-  </p>
-</Details>
 
 [Jam](https://jam.dev) [![Generic badge](https://img.shields.io/badge/-Building%20websites-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Collaborative-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Beta-lightgrey)]()
 
