@@ -43,7 +43,7 @@ If you want to know more about our team and the tech team in general, take a loo
 
 ## Bits of learning
 
-*"Optimizing your database the right way is never a waste of time"*
+> "Optimizing your database the right way is never a waste of time"
 
 The last couple of weeks, we have been experiencing 40+ millions IOPS in some of our databases. Our first instinct was to check if any microservice was responsible for the high throughput, then we investigated AWS replicas and finally we went after all the releases that were made in the last 6 months to look for any breaking change. But the answer to our performance issues was not there... So we started to look closer at the databases. We identified a lack of optimisation and relevant indexes, and started to log slow queries and implement [pghero](https://github.com/ankane/pghero). After a few optimizations, we managed to divide by two our IOPS on our main database!
 
@@ -58,7 +58,7 @@ The last couple of weeks, we have been experiencing 40+ millions IOPS in some of
     
 *By Charles, devOps engineer*
     
-I was looking for a way to install a VPN to access our preproduction environment. We currently need multiple logins and passwords to access it, which is painful,    and some of my teammates have dynamic public IPs, so this kind of filter can't be used either. I already knew the solution OpenVPN but it required to install additional tools to be able to manage identity aspects and policies access. That's how I found out pomerium that seems promising, as it is more comprehensive and has a Kubernetes API proxy.
+> I was looking for a way to install a VPN to access our preproduction environment. We currently need multiple logins and passwords to access it, which is painful,    and some of my teammates have dynamic public IPs, so this kind of filter can't be used either. I already knew the solution OpenVPN but it required to install additional tools to be able to manage identity aspects and policies access. That's how I found out pomerium that seems promising, as it is more comprehensive and has a Kubernetes API proxy.
   </p>
 </Details>
 
@@ -69,7 +69,7 @@ I was looking for a way to install a VPN to access our preproduction environment
     
 *By François, front-end developer*
     
-I really like Josh Comeau's blog posts about React and CSS because they are at a time qualitative, simple and interactive. His latest article about the best practices for styled-components was in particular very useful to me as it presents ways to lighten and simplify CSS files thanks to CSS variables and single source of styles.
+> I really like Josh Comeau's blog posts about React and CSS because they are at a time qualitative, simple and interactive. His latest article about the best practices for styled-components was in particular very useful to me as it presents ways to lighten and simplify CSS files thanks to CSS variables and single source of styles.
   </p>
 </Details>
 
