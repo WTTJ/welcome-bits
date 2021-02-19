@@ -47,7 +47,7 @@ If you want to know more about our team and the tech team in general, take a loo
 
 # Welcome Bits #1
 
-## Bits of learnings
+## Bits of learning
 
 "Optimizing your database the right way is never a waste of time"
 
@@ -84,6 +84,24 @@ If you want to know more about our team and the tech team in general, take a loo
 [Improving how we deploy GitHub](https://github.blog/2021-01-25-improving-how-we-deploy-github/) [![Generic badge](https://img.shields.io/badge/-Slack-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Overview%20of%20deploys-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Automation-lightgrey)]()
 
 [How (some) good corporate engneering blogs are written](https://danluu.com/corp-eng-blogs/) [![Generic badge](https://img.shields.io/badge/-Engineering%20blogs-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Best%20practices-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Cloudflare-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Segment-lightgrey)]() [![Generic badge](https://img.shields.io/badge/-Heap-lightgrey)]()
+
+## Bits of exploration
+
+This week, the team spent some time during our Jungle Labs session exploring **visual testing** as we would like to implement it on [Welcome UI](https://github.com/WTTJ/welcome-ui). More specifically, we would like to be able to visually test the displayed components on the Welcome UI documentation, knowing that components can be in different documentation pages.
+
+We chose to test the **cypress plugin** which allow to automatize the visual tests. 
+
+Here is our condensed feedback about the cypress plugin:
+
+### Strenghts
+- Free of charge
+- Easy implementation
+- Unit snapshots of components
+- Web browsers and screen resolution sensitive
+
+### Limitations
+- Too sensitive: comparison is done pixel by pixel, so results are sometimes random. A threshold could be implemented to reduce the sensibility but its implementation could hide true anomalies.
+- No easy debugging: differential snapshops are not clear enough regarding the analysis of the difference
 
 ## Bits of good vibes
 
