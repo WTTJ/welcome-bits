@@ -82,7 +82,7 @@ If you want to know more about our team and the tech team in general, take a loo
 
 ## Bits of exploration
 
-This week, the team spent some time during our Jungle Labs session exploring **visual testing** as we would like to implement it on [Welcome UI](https://github.com/WTTJ/welcome-ui). More specifically, we would like to be able to visually test the displayed components on the Welcome UI documentation, knowing that components can be in different documentation pages.
+Last couple of weeks, the team spent some time during our Jungle Labs session exploring **visual testing** as we would like to implement it on [Welcome UI](https://github.com/WTTJ/welcome-ui). More specifically, we would like to be able to visually test the displayed components on the Welcome UI documentation, knowing that components can be in different documentation pages.
 
 We chose to test the **[cypress plugin](https://docs.cypress.io/guides/tooling/visual-testing.html#Functional-vs-visual-testing)** which allow to automatize the visual tests. 
 
@@ -130,4 +130,4 @@ There are currently 5 positions opened in the engineering team:
 If you have any question about the positions, send us an issue or a pull request!
 
 
-Thanks for reading us. Don't hesitate to open an issue or a pull request for any question or comment you may have about the newsletter or one of the opened position. We will answer you as soon as we can. See you next week!
+Thanks for reading us. Don't hesitate to open an issue or a pull request for any question or comment you may have about the newsletter or one of the opened position. We will answer you as soon as we can.
