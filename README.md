@@ -24,7 +24,7 @@
 <summary>Why we decided to create Welcome Bits</summary>
 <p>
   
-Learning and sharing knowledge is part of the engineering team DNA. Since the beginning, Jungle Labs sessions are for instance organized each month so that developers in the team can spend a day away from their daily tasks to learn new stuff, grow technically, and share it with the rest of the team (which is not always an easy exercice for the shyest people among us).
+Learning and sharing knowledge is part of the engineering team DNA. Since the beginning, Jungle Labs sessions are for instance organized each month so that developers in the team can spend a day away from their daily tasks to learn new stuff, grow technically, and share it with the rest of the team (which is not always an easy exercise for the shyest people among us).
 
 So it seemed part of a continuing process to extend this learning and sharing experience to the outside world, meaning you, dear readers. And we hope you will enjoy reading it as much as we enjoyed writing it!</p>
 </details>
@@ -35,7 +35,7 @@ So it seemed part of a continuing process to extend this learning and sharing ex
   
 We are currently 14 developers in the engineering team itself, which is part of a bigger team called (what a surprise) "the tech team" where there are also product, data, design and QA people.
 
-There are unfortunately only men right now in the engineering team, but as diversity is a value dear to our heart, our tech recruiter Xavier is working hard to hire women. If you are a woman who code, please check <a href="https://www.welcometothejungle.com/fr/companies/wttj/jobs">our current opened positions</a> and apply if you are interested!
+There are unfortunately only men right now in the engineering team, but as diversity is a value dear to our heart, our tech recruiter Xavier is working hard to hire women. If you are a woman who codes, please check <a href="https://www.welcometothejungle.com/fr/companies/wttj/jobs">our current opened positions</a> and apply if you are interested!
 
 The company is based in Paris, France, but 65% of us are working in full remote mode, which means that some of us can code while enjoying a beautiful view on the mountains or the ocean.
 
@@ -77,7 +77,7 @@ If you want to know more about our team and the tech team in general, take a loo
 
 [![Generic badge](https://img.shields.io/badge/-Slack-lightgrey)](https://www.welcometothejungle.com/en/media/tech) [![Generic badge](https://img.shields.io/badge/-Overview%20of%20deploys-lightgrey)](https://www.welcometothejungle.com/en/media/tech) [![Generic badge](https://img.shields.io/badge/-Automation-lightgrey)](https://www.welcometothejungle.com/en/media/tech)
 
-5. [How (some) good corporate engneering blogs are written](https://danluu.com/corp-eng-blogs/) 
+5. [How (some) good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/) 
 
 [![Generic badge](https://img.shields.io/badge/-Engineering%20blogs-lightgrey)](https://www.welcometothejungle.com/en/media/tech) [![Generic badge](https://img.shields.io/badge/-Best%20practices-lightgrey)](https://www.welcometothejungle.com/en/media/tech) [![Generic badge](https://img.shields.io/badge/-Cloudflare-lightgrey)](https://www.welcometothejungle.com/en/media/tech) [![Generic badge](https://img.shields.io/badge/-Segment-lightgrey)](https://www.welcometothejungle.com/en/media/tech) [![Generic badge](https://img.shields.io/badge/-Heap-lightgrey)](https://www.welcometothejungle.com/en/media/tech)
 
@@ -85,11 +85,11 @@ If you want to know more about our team and the tech team in general, take a loo
 
 Last couple of weeks, the team spent some time during our Jungle Labs session exploring **visual testing** as we would like to implement it on [Welcome UI](https://github.com/WTTJ/welcome-ui). More specifically, we would like to be able to visually test the displayed components on the Welcome UI documentation, knowing that components can be in different documentation pages.
 
-We chose to test the **[cypress plugin](https://docs.cypress.io/guides/tooling/visual-testing.html#Functional-vs-visual-testing)** which allow to automatize the visual tests. 
+We chose to test the **[cypress plugin](https://docs.cypress.io/guides/tooling/visual-testing.html#Functional-vs-visual-testing)** which allows to automatize the visual tests. 
 
 Here is our condensed feedback about the cypress plugin:
 
-### Strenghts
+### Strengths
 - Free of charge
 - Easy implementation
 - Unit snapshots of components
@@ -99,7 +99,7 @@ Here is our condensed feedback about the cypress plugin:
 - Too sensitive: 
 Comparison is done pixel by pixel, so results are sometimes random. A threshold could be implemented to reduce the sensibility but it could hide true anomalies.
 - Limited debugging:
-Differential snapshops are useful to indicate that there is an issue but thet are not clear enough to help with the analysis of the difference.
+Differential snapshops are useful to indicate that there is an issue but they are not clear enough to help with the analysis of the difference.
 
 ### A concrete example on the breadcrumb component
 - The visual test is executed for each line of the table and will then modify the application design:
@@ -128,7 +128,7 @@ There are currently 5 positions opened in the engineering team:
 
 [Front-end developer (React JS, CSS-in-JS)](https://www.welcometothejungle.com/en/companies/wttj/jobs/frontend-developer-react-js-css-in-js_paris)
 
-If you have any question about the positions, send us an issue or a pull request!
+If you have any questions about the positions, send us an issue or a pull request!
 
 
-Thanks for reading us. Don't hesitate to open an issue or a pull request for any question or comment you may have about the newsletter or one of the opened position. We will answer you as soon as we can.
+Thanks for reading us. Don't hesitate to open an issue or a pull request for any question or comment you may have about the newsletter or one of the opened positions. We will answer you as soon as we can.
