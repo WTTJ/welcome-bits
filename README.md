@@ -3,8 +3,8 @@
 ![Logo](WTTJ_Logo_Black_RGB.png)
 ![Logo](WTTJ_Logo_White_RGB.png)
 
-[![Generic badge](https://img.shields.io/badge/Type-Newsletter-red)](https://www.welcometothejungle.com/en/media/tech)
-[![Generic badge](https://img.shields.io/badge/Frequency-Biweekly-blue)](https://www.welcometothejungle.com/en/media/tech)
+[![Generic badge](https://img.shields.io/badge/Type-Newsletter-red)](https://medium.com/wttj-tech)
+[![Generic badge](https://img.shields.io/badge/Frequency-Biweekly-blue)](https://medium.com/wttj-tech)
 [![Generic badge](https://img.shields.io/badge/Opened%20positions%20in%20the%20team-5-green)](https://www.welcometothejungle.com/fr/companies/wttj/jobs) 
 [![Generic badge](https://img.shields.io/badge/Available%20articles%20on%20engineering%20blog-6-yellow)](https://medium.com/wttj-tech) 
 
@@ -60,26 +60,26 @@ If you want to know more about our team and the tech team in general, take a loo
 
 1. [Pomerium](https://github.com/pomerium/pomerium) 
 
-[![Generic badge](https://img.shields.io/badge/-OpenVPN%20alternative-lightgrey)](https://www.welcometothejungle.com/en/media/tech) [![Generic badge](https://img.shields.io/badge/-Kubernetes%20API%20Proxy-lightgrey)](https://www.welcometothejungle.com/en/media/tech) [![Generic badge](https://img.shields.io/badge/-Identity%20and%20policy%20management-lightgrey)](https://www.welcometothejungle.com/en/media/tech)
+[![Generic badge](https://img.shields.io/badge/-OpenVPN%20alternative-lightgrey)](https://medium.com/wttj-tech) [![Generic badge](https://img.shields.io/badge/-Kubernetes%20API%20Proxy-lightgrey)](https://medium.com/wttj-tech) [![Generic badge](https://img.shields.io/badge/-Identity%20and%20policy%20management-lightgrey)](https://medium.com/wttj-tech)
 
 
 2. [The styled-components happy path](https://www.joshwcomeau.com/css/styled-components/) 
 
-[![Generic badge](https://img.shields.io/badge/-Josh%20Comeau-lightgrey)](https://www.welcometothejungle.com/en/media/tech) [![Generic badge](https://img.shields.io/badge/-Lighter%20CSS%20files-lightgrey)](https://www.welcometothejungle.com/en/media/tech) [![Generic badge](https://img.shields.io/badge/-CSS%20variables-lightgrey)](https://www.welcometothejungle.com/en/media/tech) [![Generic badge](https://img.shields.io/badge/-Single%20source%20of%20styles-lightgrey)](https://www.welcometothejungle.com/en/media/tech)
+[![Generic badge](https://img.shields.io/badge/-Josh%20Comeau-lightgrey)](https://medium.com/wttj-tech) [![Generic badge](https://img.shields.io/badge/-Lighter%20CSS%20files-lightgrey)](https://medium.com/wttj-tech) [![Generic badge](https://img.shields.io/badge/-CSS%20variables-lightgrey)](https://medium.com/wttj-tech) [![Generic badge](https://img.shields.io/badge/-Single%20source%20of%20styles-lightgrey)](https://medium.com/wttj-tech)
 
 
 3. [Jam](https://jam.dev) 
 
-[![Generic badge](https://img.shields.io/badge/-Building%20websites-lightgrey)](https://www.welcometothejungle.com/en/media/tech) [![Generic badge](https://img.shields.io/badge/-Collaborative-lightgrey)](https://www.welcometothejungle.com/en/media/tech) [![Generic badge](https://img.shields.io/badge/-Beta-lightgrey)](https://www.welcometothejungle.com/en/media/tech)
+[![Generic badge](https://img.shields.io/badge/-Building%20websites-lightgrey)](https://medium.com/wttj-tech) [![Generic badge](https://img.shields.io/badge/-Collaborative-lightgrey)](https://medium.com/wttj-tech) [![Generic badge](https://img.shields.io/badge/-Beta-lightgrey)](https://medium.com/wttj-tech)
 
 
 4. [Improving how we deploy GitHub](https://github.blog/2021-01-25-improving-how-we-deploy-github/) 
 
-[![Generic badge](https://img.shields.io/badge/-Slack-lightgrey)](https://www.welcometothejungle.com/en/media/tech) [![Generic badge](https://img.shields.io/badge/-Overview%20of%20deploys-lightgrey)](https://www.welcometothejungle.com/en/media/tech) [![Generic badge](https://img.shields.io/badge/-Automation-lightgrey)](https://www.welcometothejungle.com/en/media/tech)
+[![Generic badge](https://img.shields.io/badge/-Slack-lightgrey)](https://medium.com/wttj-tech) [![Generic badge](https://img.shields.io/badge/-Overview%20of%20deploys-lightgrey)](https://medium.com/wttj-tech) [![Generic badge](https://img.shields.io/badge/-Automation-lightgrey)](https://medium.com/wttj-tech)
 
 5. [How (some) good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/) 
 
-[![Generic badge](https://img.shields.io/badge/-Engineering%20blogs-lightgrey)](https://www.welcometothejungle.com/en/media/tech) [![Generic badge](https://img.shields.io/badge/-Best%20practices-lightgrey)](https://www.welcometothejungle.com/en/media/tech) [![Generic badge](https://img.shields.io/badge/-Cloudflare-lightgrey)](https://www.welcometothejungle.com/en/media/tech) [![Generic badge](https://img.shields.io/badge/-Segment-lightgrey)](https://www.welcometothejungle.com/en/media/tech) [![Generic badge](https://img.shields.io/badge/-Heap-lightgrey)](https://www.welcometothejungle.com/en/media/tech)
+[![Generic badge](https://img.shields.io/badge/-Engineering%20blogs-lightgrey)](https://medium.com/wttj-tech) [![Generic badge](https://img.shields.io/badge/-Best%20practices-lightgrey)](https://medium.com/wttj-tech) [![Generic badge](https://img.shields.io/badge/-Cloudflare-lightgrey)](https://medium.com/wttj-tech) [![Generic badge](https://img.shields.io/badge/-Segment-lightgrey)](https://medium.com/wttj-tech) [![Generic badge](https://img.shields.io/badge/-Heap-lightgrey)](https://medium.com/wttj-tech)
 
 ## Bits of exploration
 
