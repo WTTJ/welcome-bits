@@ -3,14 +3,14 @@
 ![Logo](WTTJ_Logo_Black_RGB.png)
 
 [![Generic badge](https://img.shields.io/badge/Type-Newsletter-red)]()
-[![Generic badge](https://img.shields.io/badge/Frequency-Weekly-blue)]()
+[![Generic badge](https://img.shields.io/badge/Frequency-Biweekly-blue)]()
 [![Generic badge](https://img.shields.io/badge/Opened%20positions%20in%20the%20team-5-green)](https://www.welcometothejungle.com/fr/companies/wttj/jobs) 
 [![Generic badge](https://img.shields.io/badge/Available%20articles%20on%20engineering%20blog-6-yellow)](https://medium.com/wttj-tech) 
 
 
 **Welcome dear \<reader>!**
 
-**Every week, we, as the engineering team at Welcome to the Jungle, will share news about our tech products as well as details about the technical topics we've been working on. The newsletter, called Welcome Bits, will also include a curated list of the most interesting links we found out there in the wild wild web.**
+**Every two weeks, we, as the engineering team at Welcome to the Jungle, will share news about our tech products as well as details about the technical topics we've been working on. The newsletter, called Welcome Bits, will also include a curated list of the most interesting links we found out there in the wild wild web.**
 
 <details>
 <summary>What is Welcome to the Jungle</summary>
