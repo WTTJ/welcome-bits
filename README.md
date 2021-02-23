@@ -1,6 +1,7 @@
 # Welcome-bits
 
 ![Logo](WTTJ_Logo_Black_RGB.png)
+![Logo](WTTJ_Logo_White_RGB.png)
 
 [![Generic badge](https://img.shields.io/badge/Type-Newsletter-red)](https://www.welcometothejungle.com/en/media/tech)
 [![Generic badge](https://img.shields.io/badge/Frequency-Biweekly-blue)](https://www.welcometothejungle.com/en/media/tech)
