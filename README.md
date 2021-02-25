@@ -5,7 +5,7 @@
 
 [![Generic badge](https://img.shields.io/badge/Type-Newsletter-red)](https://medium.com/wttj-tech)
 [![Generic badge](https://img.shields.io/badge/Frequency-Biweekly-blue)](https://medium.com/wttj-tech)
-[![Generic badge](https://img.shields.io/badge/Opened%20positions%20in%20the%20team-5-green)](https://www.welcometothejungle.com/fr/companies/wttj/jobs) 
+[![Generic badge](https://img.shields.io/badge/Available%20positions%20in%20the%20team-5-green)](https://www.welcometothejungle.com/fr/companies/wttj/jobs) 
 [![Generic badge](https://img.shields.io/badge/Available%20articles%20on%20engineering%20blog-6-yellow)](https://medium.com/wttj-tech) 
 
 
