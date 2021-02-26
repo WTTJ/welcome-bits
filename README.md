@@ -85,7 +85,7 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 The team has recently spent some time during our Jungle Labs sessions exploring visual testing, as we would like to implement it on the [Welcome UI](https://github.com/WTTJ/welcome-ui) design system. More specifically, we would like to be able to visually test the displayed components on the Welcome UI documentation, knowing that components can occur on different documentation pages.
 
-We chose to test the **[Cypress plugin](https://docs.cypress.io/guides/tooling/visual-testing.html#Functional-vs-visual-testing)**, which allows us to automatize the visual tests. 
+We chose to test the [Cypress plugin](https://docs.cypress.io/guides/tooling/visual-testing.html#Functional-vs-visual-testing), which allows us to automatize the visual tests. 
 
 Here is our condensed feedback about the Cypress plugin:
 
