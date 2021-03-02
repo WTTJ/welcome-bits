@@ -17,7 +17,7 @@
 <summary>What is Welcome to the Jungle?</summary>
 <p>
 
-<a href="https://www.welcometothejungle.com/fr">Welcome to the Jungle</a> is a company creating the new experience at work. We use content and technology to transform every step of the employee experience, to help companies offer a better, more human experience in the workplace.</p>
+<a href="https://www.welcometothejungle.com/fr">Welcome to the Jungle</a> is building the new experience at work. We use content and technology to transform every step of the employee experience, to help companies offer a better, more human experience in the workplace.</p>
 </details>
 
 <details>
