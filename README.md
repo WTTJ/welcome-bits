@@ -35,8 +35,6 @@ So it seemed obvious to us that we should extend this learning and sharing exper
   
 The team is currently made up of 14 developers, but we’re part of a bigger team called (no prizes for guessing) “the tech team,” which also encompasses product, data, design and QA people.
 
-There are currently only men in our engineering team, but as diversity is a value that’s dear to our heart, our tech recruiter Xavier is working hard to hire women too. If you are a woman who codes, please check our current available positions and apply if you are interested!
-
 Welcome to the Jungle is based in Paris, France, but 65% of us are working in full remote mode, which means that some of us can code while enjoying a beautiful view of the mountains or ocean.
 
 The engineering team is composed of back-end, full-stack, and front-end developers, as well as one DevOps engineer and one head of engineering. We are working with Elixir, Ruby, and React JS, among other technologies (you can check <a href="https://www.welcometothejungle.com/fr/companies/wttj/tech">our full stack</a> for more details).
