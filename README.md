@@ -4,7 +4,7 @@
 
 [![Generic badge](https://img.shields.io/badge/Type-Newsletter-red)](https://medium.com/wttj-tech)
 [![Generic badge](https://img.shields.io/badge/Frequency-Biweekly-blue)](https://medium.com/wttj-tech)
-[![Generic badge](https://img.shields.io/badge/Available%20positions%20in%20the%20team-5-green)](https://www.welcometothejungle.com/fr/companies/wttj/jobs) 
+[![Generic badge](https://img.shields.io/badge/Available%20positions%20in%20the%20team-5-green)](https://www.welcometothejungle.com/en/companies/wttj/jobs) 
 [![Generic badge](https://img.shields.io/badge/Available%20articles%20on%20engineering%20blog-6-yellow)](https://medium.com/wttj-tech) 
 
 
@@ -16,7 +16,7 @@
 <summary>What is Welcome to the Jungle?</summary>
 <p>
 
-<a href="https://www.welcometothejungle.com/fr">Welcome to the Jungle</a> is building the new experience at work. We use content and technology to transform every step of the employee experience, to help companies offer a better, more human experience in the workplace.</p>
+<a href="https://www.welcometothejungle.com/en">Welcome to the Jungle</a> is building the new experience at work. We use content and technology to transform every step of the employee experience, to help companies offer a better, more human experience in the workplace.</p>
 </details>
 
 <details>
