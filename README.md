@@ -71,17 +71,23 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 [Before You memo()](https://overreacted.io/before-you-memo/)
 
-*Mick*
+> Bla bla
+
+*Mickaël, front-end developer*
 
 
 [Numerical Elixir and Elixir XLA bindings for CPU/GPU/TPU](https://github.com/elixir-nx/nx)
 
-*Stéphane*
+> Bla bla
+
+*Stéphane, full-stack lead developer*
 
 
 [UUID Primary Key in Elixir Phoenix with PostgreSQL and Ecto](https://pawelurbanek.com/elixir-phoenix-uuid)
 
-*Maxime*
+> Bla bla
+
+*Maxime, back-end developer*
 
 
 ## Bits of exploration
