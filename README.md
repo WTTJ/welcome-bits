@@ -92,25 +92,27 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 ## Bits of exploration
 
+### Visual testing with the Cypress plugin
+
 The team has recently spent some time during our Jungle Labs sessions exploring visual testing, as we would like to implement it on the [Welcome UI](https://github.com/WTTJ/welcome-ui) design system. More specifically, we would like to be able to visually test the displayed components on the Welcome UI documentation, knowing that components can occur on different documentation pages.
 
 We chose to test the [Cypress plugin](https://docs.cypress.io/guides/tooling/visual-testing.html#Functional-vs-visual-testing), which allows us to automatize the visual tests. 
 
 Here is our condensed feedback about the Cypress plugin:
 
-### Strengths
+#### Strengths
 - Free of charge
 - Easy implementation
 - Unit snapshots of components
 - Web browsers and screen-resolution sensitive
 
-### Limitations
+#### Limitations
 - Too sensitive: 
 Comparison is done pixel by pixel, so the results are sometimes random. A threshold could be implemented to reduce the sensibility, but it could hide true anomalies.
 - Limited debugging:
 Differential snapshots are useful to indicate that there is an issue, but they are not clear enough to help with the analysis of the difference.
 
-### A concrete example with the breadcrumb component
+#### A concrete example with the breadcrumb component
 - A visual test is executed for each line of the table, followed by the application design being modified:
 
 ![Screenshot](screenshot_test_cypress_plugin.png)
@@ -118,6 +120,22 @@ Differential snapshots are useful to indicate that there is an issue, but they a
 - Here is a snapshot of when a difference in the text of the breadcrumb component is found:
 
 ![Snapshot](snapshot_diff_cypress_plugin.png)
+
+### APIs documentation with PhoenixSwagger and GitBook
+
+#### Strengths
+- Git-like versioning of the API
+- Global documentation (API and tech documents, app setup, knowledge...)
+- Nice UI
+- Easy to set up
+
+#### Limitations
+- A lot of small UI/UX bugs
+- We didn't find a way to set up one base_url for all the endpoints
+
+#### Example of one PhoenixSwagger endpoint
+
+#### The GitBook web UI
 
 ## Bits of good vibes
 
