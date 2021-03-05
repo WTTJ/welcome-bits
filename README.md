@@ -57,16 +57,19 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 1. [Pomerium](https://github.com/pomerium/pomerium) 
 
+> I was looking for a way to install a VPN to access our preproduction environment. We currently need multiple logins and passwords to access it, which is painful, and some of my teammates have dynamic public IPs, so this kind of filter can't be used either. I already knew the solution OpenVPN but it required to install additional tools to be able to manage identity aspects and policies access. That's how I found out pomerium that seems promising, as it is more comprehensive and has a Kubernetes API proxy.
 
+*By Charles, DevOps, security and back-end engineer*
 
 
 2. [The styled-components happy path](https://www.joshwcomeau.com/css/styled-components/) 
 
+> I really like Josh Comeau's blog posts about React and CSS because they are at a time qualitative, simple and interactive. His latest article about the best practices for styled-components was in particular very useful to me as it presents ways to lighten and simplify CSS files thanks to CSS variables and single source of styles.
 
+*By François, front-end developer*
 
 
 3. [Jam](https://jam.dev) 
-
 
 
 4. [Improving how we deploy GitHub](https://github.blog/2021-01-25-improving-how-we-deploy-github/) 
