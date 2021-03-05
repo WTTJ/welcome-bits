@@ -49,7 +49,7 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 "Optimizing your database the right way is never a waste of time"
 
-> Over the past couple of weeks, we have been experiencing 40-plus million IOPS on some of our databases. Our first instinct was to check if any microservice was responsible for the high throughput, then we investigated AWS replicas, and finally we went after all the releases made in the past 6 months to look for any breaking change. But the answer to our performance issues was not there. So we started to look closer at the databases. We identified a lack of optimization and relevant indexes, and started to log slow queries and implement pghero. After a few optimizations, we managed to halve the IOPS on our main database!
+> Over the past couple of weeks, we have been experiencing 40-plus million IOPS on some of our databases. Our first instinct was to check if any microservice was responsible for the high throughput, then we investigated AWS replicas, and finally we went after all the releases made in the past 6 months to look for any breaking change. But the answer to our performance issues was not there. So we started to look closer at the databases. We identified a lack of optimization and relevant indexes, and started to log slow queries and use pghero. After a few optimizations, we managed to halve the IOPS on our main database!
 
 *Thomas, head of engineering*
 
@@ -121,7 +121,7 @@ Differential snapshots are useful to indicate that there is an issue, but they a
 
 ![Snapshot](snapshot_diff_cypress_plugin.png)
 
-### APIs documentation with PhoenixSwagger and GitBook
+### APIs documentation with [PhoenixSwagger](https://github.com/xerions/phoenix_swagger) and [GitBook](https://www.gitbook.com)
 
 #### Strengths
 - Git-like versioning of the API
