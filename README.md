@@ -71,7 +71,7 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 [Crypto-mining attack in my GitHub actions through Pull Request](https://dev.to/thibaultduponchelle/the-github-action-mining-attack-through-pull-request-2lmc)
 
-> Bla bla
+> Attacks for personal benefits and spam pull requests on GitHub are unfortunately more and more frequent. In addition to be inconsistent with the open-source philosophy, it also increases open-source maintainers’ fatigue, leading sometimes to burn out.
 
 *Maxime, back-end developer*
 
