@@ -64,18 +64,24 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 [The styled-components happy path](https://www.joshwcomeau.com/css/styled-components/) 
 
-> I really like Josh Comeau's blog posts about React and CSS because they are at a time qualitative, simple and interactive. His latest article about the best practices for styled-components was in particular very useful to me as it presents ways to lighten and simplify CSS files thanks to CSS variables and single source of styles.
+> I really like Josh Comeau's blog posts about React and CSS because they are at a time qualitative, simple and interactive. His article about the best practices for styled-components was in particular very useful to me as it presents ways to lighten and simplify CSS files thanks to CSS variables and single source of styles.
 
 *François, front-end developer*
 
 
-[Jam](https://jam.dev) 
+[Before You memo()](https://overreacted.io/before-you-memo/)
+
+*Mick*
 
 
-[Improving how we deploy GitHub](https://github.blog/2021-01-25-improving-how-we-deploy-github/) 
+[Numerical Elixir and Elixir XLA bindings for CPU/GPU/TPU](https://github.com/elixir-nx/nx)
+
+*Stéphane*
 
 
-[How (some) good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/) 
+[UUID Primary Key in Elixir Phoenix with PostgreSQL and Ecto](https://pawelurbanek.com/elixir-phoenix-uuid)
+
+*Maxime*
 
 
 ## Bits of exploration
