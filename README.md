@@ -51,7 +51,7 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 > Over the past couple of weeks, we have been experiencing 40-plus million IOPS on some of our databases. Our first instinct was to check if any microservice was responsible for the high throughput, then we investigated AWS replicas, and finally we went after all the releases made in the past 6 months to look for any breaking change. But the answer to our performance issues was not there. So we started to look closer at the databases. We identified a lack of optimization and relevant indexes, and started to log slow queries and implement pghero. After a few optimizations, we managed to halve the IOPS on our main database!
 
-*By Thomas, head of engineering*
+*Thomas, head of engineering*
 
 ## Bits of contents
 
@@ -59,14 +59,14 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 > I was looking for a way to install a VPN to access our preproduction environment. We currently need multiple logins and passwords to access it, which is painful, and some of my teammates have dynamic public IPs, so this kind of filter can't be used either. I already knew the solution OpenVPN but it required to install additional tools to be able to manage identity aspects and policies access. That's how I found out pomerium that seems promising, as it is more comprehensive and has a Kubernetes API proxy.
 
-*By Charles, DevOps, security and back-end engineer*
+*Charles, DevOps, security and back-end engineer*
 
 
 [The styled-components happy path](https://www.joshwcomeau.com/css/styled-components/) 
 
 > I really like Josh Comeau's blog posts about React and CSS because they are at a time qualitative, simple and interactive. His latest article about the best practices for styled-components was in particular very useful to me as it presents ways to lighten and simplify CSS files thanks to CSS variables and single source of styles.
 
-*By François, front-end developer*
+*François, front-end developer*
 
 
 [Jam](https://jam.dev) 
