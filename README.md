@@ -78,7 +78,7 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 4. [Numerical Elixir and Elixir XLA bindings for CPU/GPU/TPU](https://github.com/elixir-nx/nx)
 
-> Bla bla
+> A very interesting first step to open the Elixir language to machine learning and scientific calculations with this library created by José Valim himself and Sean Moriarity.
 
 *Stéphane, full-stack lead developer*
 
