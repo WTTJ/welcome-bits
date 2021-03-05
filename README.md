@@ -135,7 +135,11 @@ Differential snapshots are useful to indicate that there is an issue, but they a
 
 #### Example of one PhoenixSwagger endpoint
 
+![Screenshot](Phoenix_Swagger_endpoint_example.png)
+
 #### The GitBook web UI
+
+![Screenshot](GitBook_web_UI.png)
 
 ## Bits of good vibes
 
