@@ -69,11 +69,11 @@ If you want to know more about our team, and the tech team in general, take a lo
 *François, front-end developer*
 
 
-[Before You memo()](https://overreacted.io/before-you-memo/)
+[Crypto-mining attack in my GitHub actions through Pull Request](https://dev.to/thibaultduponchelle/the-github-action-mining-attack-through-pull-request-2lmc)
 
 > Bla bla
 
-*Mickaël, front-end developer*
+*Maxime, back-end developer*
 
 
 [Numerical Elixir and Elixir XLA bindings for CPU/GPU/TPU](https://github.com/elixir-nx/nx)
@@ -83,11 +83,11 @@ If you want to know more about our team, and the tech team in general, take a lo
 *Stéphane, full-stack lead developer*
 
 
-[UUID Primary Key in Elixir Phoenix with PostgreSQL and Ecto](https://pawelurbanek.com/elixir-phoenix-uuid)
+[A performance dashboard for Postgres](https://github.com/ankane/pghero)
 
 > Bla bla
 
-*Maxime, back-end developer*
+*Sébastien, full-stack developer*
 
 
 ## Bits of exploration
