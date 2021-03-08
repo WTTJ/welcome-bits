@@ -121,7 +121,7 @@ Differential snapshots are useful to indicate that there is an issue, but they a
 
 ![Snapshot](snapshot_diff_cypress_plugin.png)
 
-### APIs documentation with [PhoenixSwagger](https://github.com/xerions/phoenix_swagger) and [GitBook](https://www.gitbook.com)
+### APIs documentation with [GitBook](https://www.gitbook.com)
 
 #### Strengths
 - Git-like versioning of the API
@@ -132,10 +132,6 @@ Differential snapshots are useful to indicate that there is an issue, but they a
 #### Limitations
 - A lot of small UI/UX bugs
 - We didn't find a way to set up one base_url for all the endpoints
-
-#### Example of one PhoenixSwagger endpoint
-
-![Screenshot](Phoenix_Swagger_endpoint_example.png)
 
 #### The GitBook web UI
 
