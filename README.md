@@ -85,7 +85,7 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 5. [A performance dashboard for Postgres](https://github.com/ankane/pghero)
 
-> Bla bla
+> We started using Pghero since the beginning of the year because we were encountering performance issues on some of our PostgreSQL databases. This library is great because it suggests index based on our queries and helps us to detect index overrides. It was really helpful for us!
 
 *Sébastien, full-stack developer*
 
