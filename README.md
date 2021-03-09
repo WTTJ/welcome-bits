@@ -94,7 +94,7 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 ### Visual testing with the Cypress plugin
 
-The team has recently spent some time during our Jungle Labs sessions exploring visual testing, as we would like to implement it on the [Welcome UI](https://github.com/WTTJ/welcome-ui) design system. More specifically, we would like to be able to visually test the displayed components on the Welcome UI documentation, knowing that components can occur on different documentation pages.
+The team has recently spent some time exploring visual testing, as we would like to implement it on the [Welcome UI](https://github.com/WTTJ/welcome-ui) design system. More specifically, we would like to be able to visually test the displayed components on the Welcome UI documentation, knowing that components can occur on different documentation pages.
 
 We chose to test the [Cypress plugin](https://docs.cypress.io/guides/tooling/visual-testing.html#Functional-vs-visual-testing), which allows us to automatize the visual tests. 
 
@@ -122,6 +122,8 @@ Differential snapshots are useful to indicate that there is an issue, but they a
 ![Snapshot](snapshot_cypress_plugin_diff.png)
 
 ### APIs documentation with [GitBook](https://www.gitbook.com)
+
+The team is currently searching for the most efficient way to create APIs documentation. It is in this context that GitBook has been tested.
 
 #### Strengths
 - Git-like versioning of the API
