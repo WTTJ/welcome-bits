@@ -23,7 +23,7 @@
 <summary>Why we decided to create Welcome Bits</summary>
 <p>
   
-Learning and sharing knowledge is part of the engineering team’s DNA. For example, since Welcome to the Jungle launched, Jungle Labs sessions have been organized each month so that developers in the team can spend some time away from their daily tasks to learn new stuff, grow technically, and share it with the rest of the team (which is not always an easy exercise for the shyest among us).
+Learning and sharing knowledge is part of the engineering team’s DNA. For example, since Welcome to the Jungle launched, sessions, called Jungle Labs, have been organized each month so that developers in the team can spend one day away from their daily tasks to learn new stuff, grow technically, and share it with the rest of the team (which is not always an easy exercise for the shyest among us).
 
 So it seemed obvious to us that we should extend this learning and sharing experience to the outside world—meaning you, dear readers. And we hope you will enjoy reading about what we’ve discovered as much as we enjoy writing about it!</p>
 </details>
