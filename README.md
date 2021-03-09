@@ -119,7 +119,7 @@ Differential snapshots are useful to indicate that there is an issue, but they a
 
 - Here is a snapshot of when a difference in the text of the breadcrumb component is found:
 
-![Snapshot](snapshot_diff_cypress_plugin.png)
+![Snapshot](snapshot_cypress_plugin_diff.png)
 
 ### APIs documentation with [GitBook](https://www.gitbook.com)
 
