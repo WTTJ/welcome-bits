@@ -4,7 +4,7 @@
 
 [![Generic badge](https://img.shields.io/badge/Type-Newsletter-red)](https://medium.com/wttj-tech)
 [![Generic badge](https://img.shields.io/badge/Frequency-Biweekly-blue)](https://medium.com/wttj-tech)
-[![Generic badge](https://img.shields.io/badge/Open%20tech%20positions-5-green)](https://www.welcometothejungle.com/en/companies/wttj/jobs) 
+[![Generic badge](https://img.shields.io/badge/Open%20tech%20positions-4-green)](https://www.welcometothejungle.com/en/companies/wttj/jobs) 
 [![Generic badge](https://img.shields.io/badge/Engineering%20blog%20articles-6-yellow)](https://medium.com/wttj-tech) 
 
 
@@ -145,11 +145,9 @@ Our open-source customizable design system with React styled-components, styled-
 
 ## Bits of jobs
 
-There are currently 5 open positions in the engineering team:
+There are currently 4 open positions in the engineering team:
 
 [Engineering manager](https://www.welcometothejungle.com/en/companies/wttj/jobs/engineering-manager_paris)
-
-[DevOps engineer](https://www.welcometothejungle.com/en/companies/wttj/jobs/devops-engineer_paris)
 
 [Full-Stack developer (Elixir, Ruby, React JS)](https://www.welcometothejungle.com/en/companies/wttj/jobs/full-stack-developer-ruby-elixir-react-js_paris)
 
