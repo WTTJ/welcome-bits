@@ -23,7 +23,7 @@
 <summary>Why we decided to create Welcome Bits</summary>
 <p>
   
-Learning and sharing knowledge is part of the engineering team’s DNA. For example, since Welcome to the Jungle launched, sessions, called Jungle Labs, have been organized each month so that developers in the team can spend one day away from their daily tasks to learn new stuff, grow technically, and share it with the rest of the team (which is not always an easy exercise for the shyest among us).
+Learning and sharing knowledge is part of the engineering team’s DNA. For example, since Welcome to the Jungle launched, sessions called Jungle Labs have been organized each month so that developers in the team can spend one day away from their daily tasks to learn new stuff, grow technically, and share it all with the rest of the team (which is not always an easy exercise for the shyest among us).
 
 So it seemed obvious to us that we should extend this learning and sharing experience to the outside world—meaning you, dear readers. And we hope you will enjoy reading about what we’ve discovered as much as we enjoy writing about it!</p>
 </details>
@@ -53,46 +53,46 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 *Thomas, head of engineering*
 
-## Bits of contents
+## Bits of curation
 
 1. [Pomerium](https://github.com/pomerium/pomerium) 
 
-> A promising tool that could help us install a VPN to access our preproduction environment. We currently need multiple logins and passwords to access it, which is painful, and considering the fact that some of my teammates have dynamic public IPs, we can't filter on the IPs either. Pomerium seems more comprehensive than OpenVPN, which requires to install additional tools to be able to manage identity aspects and policies access, and it has a Kubernetes API proxy.
+> A promising tool that could help us install a VPN to access our preproduction environment. Currently, we have to use multiple logins and passwords to access it, which is painful, and since some of my teammates have dynamic public IPs, we can’t filter on the IPs either. Pomerium seems more comprehensive than OpenVPN, which requires you to install additional tools to be able to manage identity aspects and policy access, and it has a Kubernetes API proxy.
 
 *Charles, DevOps, security and back-end engineer*
 
 
 2. [The styled-components happy path](https://www.joshwcomeau.com/css/styled-components/) 
 
-> An article by Josh Comeau about the best practices for styled-components. I really like his blog posts about React and CSS because they are at a time qualitative, simple and interactive. This one details the different ways to lighten and simplify CSS files thanks to CSS variables and single source of styles.
+> An article by Josh Comeau about the best practices for styled-components. I really like his blog posts about React and CSS because they are good quality, simple, and interactive. This one details the different ways you can lighten and simplify CSS files thanks to CSS variables and a single source of styles.
 
 *François, front-end developer*
 
 
 3. [Crypto-mining attack in my GitHub actions through Pull Request](https://dev.to/thibaultduponchelle/the-github-action-mining-attack-through-pull-request-2lmc)
 
-> Attacks for personal benefits, as the one detailed in this article, and spam pull requests on GitHub are unfortunately more and more frequent from my perspective. In addition to be inconsistent with the open-source philosophy, it also increases open-source maintainers’ fatigue, leading sometimes to burn out. This is a real issue!
+> Unfortunately, attacks carried out on GitHub purely for personal benefit, like the one detailed in this article, and spam pull requests seem to be becoming more and more frequent. In addition to being contrary to open-source philosophy, this behavior also increases open-source maintainers’ fatigue, which can end up leading to burn-out. This is a real issue!
 
 *Maxime, back-end developer*
 
 
 4. [Numerical Elixir and Elixir XLA bindings for CPU/GPU/TPU](https://github.com/elixir-nx/nx)
 
-> A very interesting first step to open the Elixir language to machine learning and scientific calculations with this project led by José Valim himself and Sean Moriarity.
+> A very interesting first step to opening the Elixir language to machine learning and scientific calculations in a project led by José Valim himself and Sean Moriarity.
 
 *Stéphane, full-stack lead developer*
 
 
 5. [A performance dashboard for Postgres](https://github.com/ankane/pghero)
 
-> We started using Pghero since the beginning of the year because we were encountering performance issues on some of our PostgreSQL databases. This library is great because it suggests index based on our queries and helps us to detect index overrides. It was really helpful for us!
+> We started using Pghero at the beginning of the year because we were encountering performance issues with some of our PostgreSQL databases. This library is great because it suggests indexes based on our queries and helps us to detect index overrides. It’s been really helpful!
 
 *Sébastien, full-stack developer*
 
 
 ## Bits of exploration
 
-### Visual testing with the Cypress plugin
+### Visual testing using the Cypress plugin
 
 The team has recently spent some time exploring visual testing, as we would like to implement it on the [Welcome UI](https://github.com/WTTJ/welcome-ui) design system. More specifically, we would like to be able to visually test the displayed components on the Welcome UI documentation, knowing that components can occur on different documentation pages.
 
@@ -121,19 +121,19 @@ Differential snapshots are useful to indicate that there is an issue, but they a
 
 ![Snapshot](snapshot_cypress_plugin_diff.png)
 
-### APIs documentation with [GitBook](https://www.gitbook.com)
+### API documentation using [GitBook](https://www.gitbook.com)
 
-The team is currently searching for the most efficient way to create APIs documentation. It is in this context that GitBook has been tested.
+The team is currently searching for the most efficient way to create API documentation and has been putting GitBook through its paces to see if it is the answer.
 
 #### Strengths
 - Git-like versioning of the API
-- Global documentation (API and tech documents, app setup, knowledge...)
+- Global documentation (API and tech documents, app setup, knowledge, and so on)
 - Nice UI
 - Easy to set up
 
 #### Limitations
 - A lot of small UI/UX bugs
-- We didn't find a way to set up one base_url for all the endpoints
+- We didn’t find a way to set up a base_url for all the endpoints
 
 #### The GitBook web UI
 
