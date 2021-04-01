@@ -107,6 +107,8 @@ If you have any questions about the positions, send us an issue or pull request!
 
 Thanks for reading. As we’ve said, please don’t hesitate to open an issue or pull request for any questions or comments you might have about the newsletter or one of the job vacancies. We will answer you as soon as we can.
 
+# Archives
+
 <details>
   
 <summary>Welcome Bits #1</summary>
