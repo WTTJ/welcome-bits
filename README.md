@@ -43,7 +43,8 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 *This newsletter is a new thing for us, so your suggestions, questions, and comments are more than welcome! Just send us an issue or pull request.*
 
-# Welcome Bits #1
+<details>
+<summary># Welcome Bits #1</summary>
 
 ## Bits of learning
 
@@ -157,5 +158,6 @@ There are currently 4 open positions in the engineering team:
 
 If you have any questions about the positions, send us an issue or pull request!
 
-
 Thanks for reading. As we’ve said, please don’t hesitate to open an issue or pull request for any questions or comments you might have about the newsletter or one of the job vacancies. We will answer you as soon as we can.
+
+</details>
