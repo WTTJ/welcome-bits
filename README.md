@@ -55,39 +55,39 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 ## Bits of curation
 
-1. [Pomerium](https://github.com/pomerium/pomerium) 
+1. [Before You memo()](https://overreacted.io/before-you-memo/) 
 
-> A promising tool that could help us install a VPN to access our preproduction environment. Currently, we have to use multiple logins and passwords to access it, which is painful, and since some of my teammates have dynamic public IPs, we can’t filter on the IPs either. Pomerium seems more comprehensive than OpenVPN, which requires you to install additional tools to be able to manage identity aspects and policy access, and it has a Kubernetes API proxy.
+> XXX
 
-*Charles, DevOps, security and back-end engineer*
-
-
-2. [The styled-components happy path](https://www.joshwcomeau.com/css/styled-components/) 
-
-> An article by Josh Comeau about the best practices for styled-components. I really like his blog posts about React and CSS because they are good quality, simple, and interactive. This one details the different ways you can lighten and simplify CSS files thanks to CSS variables and a single source of styles.
-
-*François, front-end developer*
+*Mick, front-end developer*
 
 
-3. [Crypto-mining attack in my GitHub actions through Pull Request](https://dev.to/thibaultduponchelle/the-github-action-mining-attack-through-pull-request-2lmc)
+2. [Strong Migrations](https://github.com/ankane/strong_migrations) 
 
-> Unfortunately, attacks carried out on GitHub purely for personal benefit, like the one detailed in this article, and spam pull requests seem to be becoming more and more frequent. In addition to being contrary to open-source philosophy, this behavior also increases open-source maintainers’ fatigue, which can end up leading to burn-out. This is a real issue!
+> XXX
 
-*Maxime, back-end developer*
+*Clément, back-end developer*
 
 
-4. [Numerical Elixir and Elixir XLA bindings for CPU/GPU/TPU](https://github.com/elixir-nx/nx)
+3. [Odyssey Design System](https://odyssey.okta.design)
 
-> A very interesting first step to opening the Elixir language to machine learning and scientific calculations in a project led by José Valim himself and Sean Moriarity.
+> XXX
+
+*Shawarma, head of engineering*
+
+
+4. [OVH incident](https://twitter.com/olesovhcom/status/1369478732247932929?s=19)
+
+> XXX
 
 *Stéphane, full-stack lead developer*
 
 
-5. [A performance dashboard for Postgres](https://github.com/ankane/pghero)
+5. [Flowchart](https://flowchart.fun/ )
 
-> We started using Pghero at the beginning of the year because we were encountering performance issues with some of our PostgreSQL databases. This library is great because it suggests indexes based on our queries and helps us to detect index overrides. It’s been really helpful!
+> XXX
 
-*Sébastien, full-stack developer*
+*Shawarma, head of engineering*
 
 ## Bits of good vibes
 
