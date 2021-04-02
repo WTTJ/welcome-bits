@@ -47,11 +47,11 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 ## Bits of learning
 
-"XXX"
+"Be aware of how your users use your site"
 
-> XXX
+> We noticed recently that we were getting a significant number of errors logged to Sentry, where we log all our front-end errors, with `SecurityError: Blocked a frame with origin “https://www.welcometothejungle.com” from accessing a cross-origin frame.`. Although Sentry is great at giving stacktraces including basic user interactions, we didn’t have much more to go on. After a bit of digging we found that it only surfaced in the Facebook in-app browser when users were trying to log in via LinkedIn. Our LinkedIn login implementation opened a popup window (as many sites do) with the LinkedIn login page so as not to disturb the user’s flow. Unfortunately, you can’t open popups in the Facebook browser or other apps that use an iOS WebView meaning anyone that opened a link in Facebook to one of our articles or job listings and then tried to log in ended up with a blank page and nowhere to go. Mildly frustrating to say the least. We’ve since changed the user flow so login/signup all happens in the same window. It’s slightly disruptive to the user experience — but much less disruptive than a blank page.
 
-*XXX, XXX*
+*Robert, full-stack developer*
 
 ## Bits of curation
 
