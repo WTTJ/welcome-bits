@@ -71,14 +71,14 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 3. [Odyssey Design System](https://odyssey.okta.design)
 
-> Odyssey is a new open-source project from Okta that provides users with a design system. Its UI includes lots of components related to sign-in and sign-up, as you would expect given what Okta’s business is, and there is a strong focus on accessibility.
+> Odyssey is a new open-source project from Okta that provides users with a design system. Its UI includes lots of components related to sign-in and sign-up, as you would expect given what Okta’s business is, and there’s a strong focus on accessibility.
 
 *Shawarma, head of engineering*
 
 
 4. [The fire at OVH](https://twitter.com/olesovhcom/status/1369478732247932929?s=19)
 
-> Millions of websites in France have been disrupted by the fire that broke out at OVH’s Strasbourg data center on March 10. It was a terrible event that should remind engineering teams everywhere how important it is to anticipate the worst happening.
+> Millions of websites in France have been disrupted by the fire that broke out at OVH’s Strasbourg data center on March 10. It was a terrible event that should remind engineering teams everywhere how important it is to be prepared for the worst happening.
 
 *Stéphane, full-stack lead developer*
 
@@ -91,7 +91,7 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 ## Bits of good vibes
 
-On March 17, Stéphane, our full-stack lead developer, became the proud father of Peio. Congratulations, Stéphane!
+On March 17, our full-stack lead developer Stéphane became the proud father of Peio. Congratulations, Stéphane!
 
 ## Bits of jobs
 
