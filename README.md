@@ -57,41 +57,41 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 1. [Before You memo()](https://overreacted.io/before-you-memo/) 
 
-> XXX
+> A useful article by Dan Abramov that details two different techniques you can use in React instead of the memo() function. We’ve tried them both at WTTJ and they really helped to optimize performance.
 
 *Mick, front-end developer*
 
 
 2. [Strong Migrations](https://github.com/ankane/strong_migrations) 
 
-> XXX
+> An interesting tool to use with projects, this detects issues during database migrations and is useful for the good practices its readme contains. Some serious issues we’ve encountered in the past would definitely have been avoided if we’d had this tool!
 
 *Clément, back-end developer*
 
 
 3. [Odyssey Design System](https://odyssey.okta.design)
 
-> XXX
+> Odyssey is a new open-source project from Okta that provides users with a design system. Its UI includes lots of components related to sign-in and sign-up, as you would expect given what Okta’s business is, and there is a strong focus on accessibility.
 
 *Shawarma, head of engineering*
 
 
-4. [OVH incident](https://twitter.com/olesovhcom/status/1369478732247932929?s=19)
+4. [The fire at OVH](https://twitter.com/olesovhcom/status/1369478732247932929?s=19)
 
-> XXX
+> Millions of websites in France have been disrupted by the fire that broke out at OVH’s Strasbourg data center on March 10. It was a terrible event that should remind engineering teams everywhere how important it is to anticipate the worst happening.
 
 *Stéphane, full-stack lead developer*
 
 
-5. [Flowchart](https://flowchart.fun/ )
+5. [Flowchart.fun](https://flowchart.fun/ )
 
-> XXX
+> Flowchart.fun is a really simple open-source tool for creating flowcharts from text and exporting them in various formats.
 
 *Shawarma, head of engineering*
 
 ## Bits of good vibes
 
-XXX
+On March 17, Stéphane, our full-stack lead developer, became the proud father of Peio. Congratulations, Stéphane!
 
 ## Bits of jobs
 
