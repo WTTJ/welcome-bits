@@ -4,7 +4,7 @@
 
 [![Generic badge](https://img.shields.io/badge/Type-Newsletter-red)](https://medium.com/wttj-tech)
 [![Generic badge](https://img.shields.io/badge/Frequency-Biweekly-blue)](https://medium.com/wttj-tech)
-[![Generic badge](https://img.shields.io/badge/Open%20tech%20positions-4-green)](https://www.welcometothejungle.com/en/companies/wttj/jobs) 
+[![Generic badge](https://img.shields.io/badge/Open%20tech%20positions-3-green)](https://www.welcometothejungle.com/en/companies/wttj/jobs) 
 [![Generic badge](https://img.shields.io/badge/Engineering%20blog%20articles-6-yellow)](https://medium.com/wttj-tech) 
 
 
@@ -42,6 +42,76 @@ If you want to know more about our team, and the tech team in general, take a lo
 </details>
 
 *This newsletter is a new thing for us, so your suggestions, questions, and comments are more than welcome! Just send us an issue or pull request.*
+
+# Welcome Bits #2
+
+## Bits of learning
+
+"Be aware of how your users use your site"
+
+> We noticed recently that we were getting a significant number of errors logged to Sentry, where we log all our front-end errors, with `SecurityError: Blocked a frame with origin “https://www.welcometothejungle.com” from accessing a cross-origin frame.`. Although Sentry is great at giving stacktraces including basic user interactions, we didn’t have much more to go on. After a bit of digging we found that it only surfaced in the Facebook in-app browser when users were trying to log in via LinkedIn. Our LinkedIn login implementation opened a popup window (as many sites do) with the LinkedIn login page so as not to disturb the user’s flow. Unfortunately, you can’t open popups in the Facebook browser or other apps that use an iOS WebView meaning anyone that opened a link in Facebook to one of our articles or job listings and then tried to log in ended up with a blank page and nowhere to go. Mildly frustrating to say the least. We’ve since changed the user flow so login/signup all happens in the same window. It’s slightly disruptive to the user experience — but much less disruptive than a blank page.
+
+*Robert, full-stack developer*
+
+## Bits of curation
+
+1. [Before You memo()](https://overreacted.io/before-you-memo/) 
+
+> A useful article by Dan Abramov that details two different techniques you can use in React instead of the memo() function. We’ve tried them both at WTTJ and they really helped to optimize performance.
+
+*Mick, front-end developer*
+
+
+2. [Strong Migrations](https://github.com/ankane/strong_migrations) 
+
+> An interesting tool to use with projects, this detects issues during database migrations and is useful for the good practices its readme contains. Some serious issues we’ve encountered in the past would definitely have been avoided if we’d had this tool!
+
+*Clément, back-end developer*
+
+
+3. [Odyssey Design System](https://odyssey.okta.design)
+
+> Odyssey is a new open-source project from Okta that provides users with a design system. Its UI includes lots of components related to sign-in and sign-up, as you would expect given what Okta’s business is, and there’s a strong focus on accessibility.
+
+*Shawarma, head of engineering*
+
+
+4. [The fire at OVH](https://twitter.com/olesovhcom/status/1369478732247932929?s=19)
+
+> Millions of websites in France have been disrupted by the fire that broke out at OVH’s Strasbourg data center on March 10. It was a terrible event that should remind engineering teams everywhere how important it is to be prepared for the worst happening.
+
+*Stéphane, full-stack lead developer*
+
+
+5. [Flowchart.fun](https://flowchart.fun/ )
+
+> Flowchart.fun is a really simple open-source tool for creating flowcharts from text and exporting them in various formats.
+
+*Shawarma, head of engineering*
+
+## Bits of good vibes
+
+On March 17, our full-stack lead developer Stéphane became the proud father of Peio. Congratulations, Stéphane!
+
+## Bits of jobs
+
+There are currently 3 open positions in the engineering team:
+
+[Engineering manager](https://www.welcometothejungle.com/en/companies/wttj/jobs/engineering-manager_paris)
+
+[Full-Stack developer (Elixir, Ruby, React JS)](https://www.welcometothejungle.com/en/companies/wttj/jobs/full-stack-developer-ruby-elixir-react-js_paris)
+
+[Back-end developer (Elixir, Ruby)](https://www.welcometothejungle.com/en/companies/wttj/jobs/backend-developer-ruby-elixir_paris_WTTJ_9MP4PxM)
+
+If you have any questions about the positions, send us an issue or pull request!
+
+Thanks for reading. As we’ve said, please don’t hesitate to open an issue or pull request for any questions or comments you might have about the newsletter or one of the job vacancies. We will answer you as soon as we can.
+
+# Archives
+
+<details>
+  
+<summary>Welcome Bits #1</summary>
 
 # Welcome Bits #1
 
@@ -157,5 +227,6 @@ There are currently 4 open positions in the engineering team:
 
 If you have any questions about the positions, send us an issue or pull request!
 
-
 Thanks for reading. As we’ve said, please don’t hesitate to open an issue or pull request for any questions or comments you might have about the newsletter or one of the job vacancies. We will answer you as soon as we can.
+
+</details>
