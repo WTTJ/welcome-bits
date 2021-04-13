@@ -45,6 +45,16 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 # Welcome Bits #3
 
+## Bits of learning
+
+## Bits of curation
+
+## Bits of exploration
+
+## Bits of good vibes
+
+## Bits of jobs
+
 # Archives
 
 <details>
