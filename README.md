@@ -91,7 +91,7 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 At WTTJ, the tech teams are currently using both Trello and Jira as project management tools. Jira is used by other teams to report issues and request new features, while Trello is used by the tech teams to manage prioritization and follow up on these issues and features. So, yes, we pay both licenses. And yes, we manually import tickets from Jira to Trello every day.
 
-But some of us are true Jira believers. We were convinced that Jira alone could fit our needs and even help us to improve our monitoring (which is quite basic in Trello at the moment). So we built a board in Jira and compared it to Trello to make our point. An important thing to note is that we chose team-managed projects, as they offer more flexibility and are easier to manage than company-managed projects.
+But some of us are true Jira believers. We were convinced that Jira alone could fit our needs and even help us to improve our monitoring (which is quite basic in Trello at the moment). So we built a board in Jira and compared it to Trello to make our point. An important thing to note is that we chose [team-managed projects](https://support.atlassian.com/jira-software-cloud/docs/get-started-with-team-managed-projects/), as they offer more flexibility and are easier to manage than company-managed projects.
 
 Here are the results: the strengths and limitations of Jira compared to Trello.
 
