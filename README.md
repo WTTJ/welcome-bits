@@ -43,6 +43,99 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 *This newsletter is a new thing for us, so your suggestions, questions, and comments are more than welcome! Just send us an issue or pull request.*
 
+# Welcome Bits #3
+
+## Bits of learning
+
+“SQL is not that CRUD”
+
+> We recently discovered a new function on PostgreSQL that allowed us to solve an issue we were having a hard time with. It’s the LAG function, which allows access to the data of the previous row, or the row before the previous row, and so on. Not sounding all that useful, right? But it really was! We were getting some duplicate entries on our database for movements between columns in a Trello-like board that allows recruiters to change the status of applicants. It wasn’t possible to use the “created at” data, as the duplicates were not created at the same date and time. But thanks to the LAG function, we were able to identify the movements that had the same previous movements, which allowed us to spot the duplicates. Who knows which unknown PostgreSQL function could help us fix our next issue?
+
+*Bastien, back-end developer*
+
+## Bits of curation
+
+1. [Le refactoring le plus difficile de ma carrière (FR)](https://www.youtube.com/watch?v=TiRoge93H0o)
+
+> Coding can become irrelevant when it starts affecting your health. In this talk, Jérôme Petazzoni shares his experience of suffering burnout. It’s a good reminder for all engineers that coding, and work in general, isn’t everything in life, no matter how passionate you are about it. (English subtitles are available on YouTube for non-French speakers—click on settings, then subtitles, then choose auto-translate.)
+
+*Shawarma, head of engineering*
+
+2. [New AI-Based Image Auto-Crop Algorithm Sticks to the Subject](https://cloudinary.com/blog/new_ai_based_image_auto_crop_algorithm_sticks_to_the_subject)
+
+> A promising SaaS tool from Cloudinary that auto-crops images. We are currently looking for a way to manage image cropping for a feature that will alternate portrait and landscape images in one of our products. The Cloudinary solution is definitely one that we plan to have a closer look at and we will share our feedback in the newsletter, so stay tuned!
+
+*Bastien, back-end developer*
+
+3. [Fast Elixir](https://github.com/devonestes/fast-elixir)
+
+> When it comes to performance, it’s always nice to have someone else doing the dirty work for you and benchmarking all the methods to see which is fastest. Well, here is the benchmarking tool for Elixir!
+
+*Shawarma, head of engineering*
+
+4. [CodeTour](https://github.com/microsoft/codetour)
+
+> With 70 percent of our engineering team working fully remotely, we are currently looking for ways to improve the onboarding process of our developers. It looks like this Visual Studio Code extension could be something that will help us—and newcomers—by allowing us to create a guided tour of our main codebases!
+
+*Samuel, back-end developer*
+
+5. [Signs of triviality](https://www.netmeister.org/blog/email.html)
+
+> Email validation at its finest! This is a good link to bookmark whenever you need to double-check that you have defined the right rules to apply when validating an email address that someone has entered on a form.
+
+*Shawarma, head of engineering*
+
+## Bits of exploration
+
+### Project management with Jira (and Jira only)
+
+At WTTJ, the tech teams are currently using both Trello and Jira as project management tools. Jira is used by other teams to report issues and request new features, while Trello is used by the tech teams to manage prioritization and follow up on these issues and features. So, yes, we pay both licenses. And yes, we manually import tickets from Jira to Trello every day.
+
+But some of us are true Jira believers. We were convinced that Jira alone could fit our needs and even help us to improve our monitoring (which is quite basic in Trello at the moment). So we built a board in Jira and compared it to Trello to make our point. An important thing to note is that we chose [team-managed projects](https://support.atlassian.com/jira-software-cloud/docs/get-started-with-team-managed-projects/), as they offer more flexibility and are easier to manage than company-managed projects.
+
+Here are the results: the strengths and limitations of Jira compared to Trello.
+
+#### Strengths
+- Jira’s features are the same as 90 percent of Trello’s features
+- Epics can be managed without add-ons or workarounds
+- It’s easy to get an overview of the project and provide visibility of the road map for the team
+- It’s possible to manage sub-tasks, which are easier to manage than comments in Trello
+- It’s possible to manage your backlog outside the board, which makes the board clearer and easier to read, and helps you to focus on what needs to be done first
+- It provides access to the history of releases, independently of the board
+- Several metrics and charts are available
+- You are able to flag a ticket in a board
+- It is easy to filter your board by epic, label, or assignee
+
+#### Limitations
+- It’s not possible to manage multiple assignees under one ticket
+- Tags cannot be colored
+
+So, as you have probably guessed, Jira won. After the presentation, three tech teams decided to migrate their projects to Jira. But this came with two conditions: First, the project needs to be mature enough. And second, we advise you to choose team-managed projects, as it allows your team to be autonomous when it comes to configuration.
+
+## Bits of good vibes
+
+Stéphane, our full-stack lead developer, contributed to [the latest release of Bamboo](https://github.com/thoughtbot/bamboo/pull/591), an open-source project that allows developers to use emails for Elixir. He worked on adding the ability to define interceptors for a given mailer, which can either be used to prevent emails from going out or to modify email data such as subject in a single place. Giving back to the open-source community is something that is very important to us and we definitely want to be able to contribute more in the future.
+
+## Bits of jobs
+
+There are currently 3 open positions in the engineering team:
+
+[Engineering manager](https://www.welcometothejungle.com/en/companies/wttj/jobs/engineering-manager_paris)
+
+[Full-Stack developer (Elixir, Ruby, React JS)](https://www.welcometothejungle.com/en/companies/wttj/jobs/full-stack-developer-ruby-elixir-react-js_paris)
+
+[Back-end developer (Elixir, Ruby)](https://www.welcometothejungle.com/en/companies/wttj/jobs/backend-developer-ruby-elixir_paris_WTTJ_9MP4PxM)
+
+If you have any questions about the positions, send us an issue or pull request!
+
+Thanks for reading. As we’ve said, please don’t hesitate to open an issue or pull request for any questions or comments you might have about the newsletter or one of the job vacancies. We will answer you as soon as we can.
+
+# Archives
+
+<details>
+  
+<summary>Welcome Bits #2</summary>
+  
 # Welcome Bits #2
 
 ## Bits of learning
@@ -94,7 +187,6 @@ If you want to know more about our team, and the tech team in general, take a lo
 On March 17, our full-stack lead developer Stéphane became the proud father of Peio. Congratulations, Stéphane!
 
 ## Bits of jobs
-
 There are currently 3 open positions in the engineering team:
 
 [Engineering manager](https://www.welcometothejungle.com/en/companies/wttj/jobs/engineering-manager_paris)
@@ -107,7 +199,7 @@ If you have any questions about the positions, send us an issue or pull request!
 
 Thanks for reading. As we’ve said, please don’t hesitate to open an issue or pull request for any questions or comments you might have about the newsletter or one of the job vacancies. We will answer you as soon as we can.
 
-# Archives
+</details>
 
 <details>
   
