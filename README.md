@@ -45,6 +45,16 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 # Welcome Bits #4
 
+## Bits of learning
+
+## Bits of curation
+
+## Bits of good vibes
+
+## Bits of jobs
+
+Thanks for reading. As we’ve said, please don’t hesitate to open an issue or pull request for any questions or comments you might have about the newsletter or one of the job vacancies. We will answer you as soon as we can.
+
 # Archives
 
 <details>
