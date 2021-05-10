@@ -4,7 +4,7 @@
 
 [![Generic badge](https://img.shields.io/badge/Type-Newsletter-red)](https://medium.com/wttj-tech)
 [![Generic badge](https://img.shields.io/badge/Frequency-Biweekly-blue)](https://medium.com/wttj-tech)
-[![Generic badge](https://img.shields.io/badge/Open%20tech%20positions-3-green)](https://www.welcometothejungle.com/en/companies/wttj/jobs) 
+[![Generic badge](https://img.shields.io/badge/Open%20tech%20positions-7-green)](https://www.welcometothejungle.com/en/companies/wttj/jobs) 
 [![Generic badge](https://img.shields.io/badge/Engineering%20blog%20articles-6-yellow)](https://medium.com/wttj-tech) 
 
 
@@ -42,6 +42,80 @@ If you want to know more about our team, and the tech team in general, take a lo
 </details>
 
 *This newsletter is a new thing for us, so your suggestions, questions, and comments are more than welcome! Just send us an issue or pull request.*
+
+# Welcome Bits #4
+
+## Bits of learning
+
+"Integrating Chromecast is quite complex"
+
+> While looking for a way to improve the user experience of our [Welcome Originals application](https://www.welcomeoriginals.com/en), we decided to launch the Google Chromecast feature. By using a streaming device plugged into their televisions, our users are now able to watch our video content on their TV screens. But the feature was not all that easy to implement: Not only is Chromecast not managed correctly by the different media players, but it also demonstrates a very particular behavior when we cast content, namely it fetches by itself an endpoint on our server to display the page’s content. This makes authentication complicated, which is quite problematic in our case, as some of our videos are protected by DRMs (digital rights management). It also implies that there is only one url for all the different devices (iOS, Android, and web). Finally, we realized that it was impossible to simulate a Chromecast-type device, so we had to develop the feature directly on a compatible device.
+
+*Mick, front-end developer*
+
+## Bits of curation
+
+1. [Preparing Rustls for Wider Adoption](https://www.abetterinternet.org/post/preparing-rustls-for-wider-adoption/)
+
+> An announcement from the Internet Security Research Group (ISRG) about work being done on the Rust TLS library, which is mainly written in Rust. It has better memory safety than other TLS libraries written in C, which should prevent security issues, and was audited last year. All in all, it seems an interesting option to consider.
+
+*Charles, DevOps, security and back-end engineer*
+
+2. [Zellij: a Rusty terminal workspace releases a beta](https://zellij.dev/news/beta/)
+
+> A new terminal written in Rust, confirming the global trend that we’re seeing, when it comes to handling memory issues, for replacing C and C++ with Rust.
+
+*Stéphane, full-stack lead developer*
+
+3. [ConsoleMe: A Central Control Plane for AWS Permissions and Access](https://netflixtechblog.com/consoleme-a-central-control-plane-for-aws-permissions-and-access-fd09afdd60a8)
+
+> Anyone who has spent any time dealing with the AWS IAM (identity and access management) service knows how tedious and infuriating permission management can get when it’s handled manually. That’s why Netflix engineers created the ConsoleMe tool, to be used when creating a new set of policies or updating existing policies—without anything breaking. Its features range from automatic approval for simple requests to a native editor for advanced requests.
+
+*Shawarma, head of engineering*
+
+4. [Don’t we all just want to use SQL on the frontend?](https://vjpr.medium.com/dont-we-all-just-want-to-use-sql-on-the-frontend-6b9d38c08146)
+
+> The author of this article examines an interesting performance scenario where an SQLite library is used on the front-end to store users’ data and occasionally synchronize it with the distant database.
+
+*Bastien, back-end developer*
+
+5. [How we found and fixed a rare race condition in our session handling](https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/)
+
+> GitHub developers fixed a major security issue on the platform—namely, users sometimes ending up logged into the wrong accounts—which had been happening for quite a long time and was becoming quite critical. This issue, which was caused by an external library, reminds us that no company is completely free of serious bugs.
+
+*Stéphane, full-stack lead developer*
+
+## Bits of good vibes
+
+We are thrilled to welcome 3 new members to the tech team: Kim as QA engineer, and David and Thomas as back-end engineers. Great to have you on board!
+
+## Bits of jobs
+
+There are currently 7 open positions in the engineering team:
+
+[Engineering manager](https://www.welcometothejungle.com/en/companies/wttj/jobs/engineering-manager_paris)
+
+[Full-Stack developer (Elixir, Ruby, React JS)](https://www.welcometothejungle.com/en/companies/wttj/jobs/full-stack-developer-ruby-elixir-react-js_paris)
+
+[Back-end developer (Elixir, Ruby)](https://www.welcometothejungle.com/en/companies/wttj/jobs/backend-developer-ruby-elixir_paris_WTTJ_9MP4PxM)
+
+[IT manager](https://www.welcometothejungle.com/fr/companies/wttj/jobs/it-manager_paris)
+
+[Back-end developer (intern)](https://www.welcometothejungle.com/fr/companies/wttj/jobs/backend-developer-intern_paris)
+
+[Product manager Welcome Originals (intern)](https://www.welcometothejungle.com/fr/companies/wttj/jobs/product-manager-welcome-originals-intern_paris_WTTJ_jLpqZGr)
+
+[Front-end developer (intern)](https://www.welcometothejungle.com/fr/companies/wttj/jobs/frontend-developer-intern_paris)
+
+If you have any questions about the positions, send us an issue or pull request!
+
+Thanks for reading. As we’ve said, please don’t hesitate to open an issue or pull request for any questions or comments you might have about the newsletter or one of the job vacancies. We will answer you as soon as we can.
+
+# Archives
+
+<details>
+  
+<summary>Welcome Bits #3</summary>
 
 # Welcome Bits #3
 
@@ -120,7 +194,7 @@ Stéphane, our full-stack lead developer, contributed to [the latest release of 
 
 There are currently 3 open positions in the engineering team:
 
-[Engineering manager](https://www.welcometothejungle.com/en/companies/wttj/jobs/engineering-manager_paris)
+[Engineering manager](https://www.welcometothejungle.com/fr/companies/wttj/jobs/engineering-manager_paris)
 
 [Full-Stack developer (Elixir, Ruby, React JS)](https://www.welcometothejungle.com/en/companies/wttj/jobs/full-stack-developer-ruby-elixir-react-js_paris)
 
@@ -129,8 +203,8 @@ There are currently 3 open positions in the engineering team:
 If you have any questions about the positions, send us an issue or pull request!
 
 Thanks for reading. As we’ve said, please don’t hesitate to open an issue or pull request for any questions or comments you might have about the newsletter or one of the job vacancies. We will answer you as soon as we can.
-
-# Archives
+  
+</details>
 
 <details>
   
