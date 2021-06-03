@@ -96,7 +96,7 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 5. [Basic telemetry for the Audacity](https://github.com/audacity/audacity/pull/835)
 
-> A much-discussed PR for the open-source audio editor Audacity, whose developers had wanted to introduce some basic telemetry via Google Analytics and Yandex. A lot of forks were implemented following the PR, which contradicts the open-source philosophy of the tool. Hopefully the PR has now been closed, as this is the kind of change that can make an open-source project end in no time at all.
+> A much-discussed PR for the open-source audio editor Audacity: A contributor had wanted to introduce some basic telemetry via Google Analytics and Yandex. A lot of forks were created following the PR. Hopefully the PR has now been closed, as this is the kind of change that can undermine users' trust and make an open-source project end in no time at all.
 
 *Maxime, back-end developer*
 
