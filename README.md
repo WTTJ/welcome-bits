@@ -43,6 +43,100 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 *This newsletter is a new thing for us, so your suggestions, questions, and comments are more than welcome! Just send us an issue or pull request.*
 
+# Welcome Bits #5
+
+## Bits of curation
+
+1. [Changes at Basecamp](https://world.hey.com/jason/changes-at-basecamp-7f32afc5)
+
+> These changes are clearly the end of an era for the company. Basecamp has always been seen as a utopian place to work as a developer, but this is clearly not the case anymore and the huge ego of the founder seems to have won out.
+
+*Stéphane, full-stack lead developer*
+
+2. [Bob dishwasher cassette rewinder](https://github.com/dekuNukem/bob_cassette_rewinder)
+
+> This GitHub repository is a great example of how a developer and a bit of elbow grease can take on the proprietary world! The author hacked a Bob dishwasher detergent cartridge because he wanted to be able to refill used ones instead of buying new cartridges. He managed to reprogram the refilled cartridge so that the dishwasher thought it was a new one.
+
+*Maxime, back-end developer*
+
+3. [The Instagram ads Facebook won’t show you](https://signal.org/blog/the-instagram-ads-you-will-never-see/)
+
+> A blog post about the great ad campaign by Signal that highlights the quantity of data collected by Facebook.
+
+*Stéphane, full-stack lead developer*
+
+4. [Slidev](https://sli.dev)
+
+> A promising tool created by a member of the Vue core team that generates nice slides developers can use in their presentations.
+
+*Stéphane, full-stack lead developer*
+
+5. [Basic telemetry for the Audacity](https://github.com/audacity/audacity/pull/835)
+
+> A much-discussed PR for the open-source audio editor Audacity: A contributor had wanted to introduce some basic telemetry via Google Analytics and Yandex. A lot of forks were created following the PR. Hopefully the PR has now been closed, as this is the kind of change that can undermine users' trust and make an open-source project end in no time at all.
+
+*Maxime, back-end developer*
+
+## Bits of learning
+
+"There is no magic recipe for building a QA team"
+
+> After 12 years of working in QA and testing, I was hired a year ago by Welcome to the Jungle to build its QA team from scratch and to spread a culture of QA within the tech team. Even for an experienced QA manager like me, creating a team from nothing is always a challenge, as the task requires you to constantly question yourself. Here are the 5 lessons I’ve learned so far and that I would like to share, in case they might be helpful for someone else!
+> 
+> 1. The best QA team is the one that fits the company’s needs
+> 
+> Trying to impose a predefined idea of how a QA team should work is the quickest way to fail! It’s important to keep in mind that there is no such thing as an ideal QA team. The best QA team is the one that fulfills all the company’s needs. On the other hand, diving in headlong and starting to implement QA practices without having any discussions with the developers or the rest of the tech team first will, without doubt, lead to building the wrong foundations for the QA team. Therefore, I recommend that the first step should be planning workshops with the different tech team members to understand the existing processes and tools as well as the issues being encountered by the developers. Don't hesitate to refer to models such as [TMMi](https://www.tmmi.org/tmmi-model/) to help you with this.
+> 
+> 2. Approach the creation of the team as you would the delivery of a product
+> 
+> Creating a QA department is a big task that will never be completely finished, which is why you should take the time to define a shared action plan to give a long-term vision—just as you would if you were a product owner. The scope of a QA team can be vast and you won’t be able to implement everything right away. Trying to do so will lead to frustration: Tech team members will feel like no progress is being made despite months of work, while the QA engineers will end up suffering from burnout as they won’t be able to meet all the expectations (which are usually quite high as the QA team has often been created with the idea of solving most of the issues developers have been dealing with). Therefore, prioritize according to the analysis you carried out in step 1. For example, if you know that the application regularly goes down in production when too many users are connected and the risk of functional regression is low, it’s a good idea to prioritize performance tests over regression testing.
+> 
+> 3. Remember that soft skills matter
+> 
+> When the time comes to grow your QA team, you’ll need to start interviewing to find the right candidates to join the rest of you. Testing their technical expertise is one thing, but you should also keep in mind that human skills are just as important as technical ones. It’s crucial for the team’s success to find people who will complement each other in terms of their personalities and who will inspire each other, as well as contribute to creating a mutually supportive environment. Don’t forget also that QA engineers will be in contact with a lot of people in the company—product owners, developers, the help desk and sometimes even the end users. Therefore, having empathy, patience, diplomacy, and an ability to listen and communicate efficiently is imperative. Remember: It’s easier to teach someone QA and testing skills than interpersonal skills!
+> 
+> 4. Build a strong, transversal team spirit
+> 
+> In an Agile environment, QA engineers are often spread out into separate squads, which can have a negative effect on team spirit. So you need to create regular dedicated time slots for the team members to be able to share their best practices, help each other, and feel that they are part of a team full of people who are dealing with the same challenges. It can be difficult to get time set aside for this, as some might consider that it means less time working for their squad —even though it actually is productive in the end!
+> 
+> 5. Make quality every developer’s business
+> 
+> I don’t consider the QA team the one that should be responsible for the quality of the product deliveries. As far as I see it, the QA team is more a support department whose role is to help the other technical departments to deliver the best product possible. This means organizing training, presentations, and workshops to provide these departments with the right tools and methodologies. A lot of patience, some pedagogy, and highlighting a few KPIs will be necessary to convince everyone that quality is a collective effort and taking some responsibility will benefit the whole tech team!
+
+*Marc, QA manager*
+
+## Bits of good vibes
+
+Our team has recently grown again thanks to the arrival of two new members: Aurore, as DevOps engineer, and another David, as back-end developer. Welcome aboard!
+
+## Bits of jobs
+
+There are currently 7 open positions in the engineering team:
+
+[Engineering manager](https://www.welcometothejungle.com/en/companies/wttj/jobs/engineering-manager_paris)
+
+[Full-Stack developer (Elixir, Ruby, React JS)](https://www.welcometothejungle.com/en/companies/wttj/jobs/full-stack-developer-ruby-elixir-react-js_paris)
+
+[Back-end developer (Elixir, Ruby)](https://www.welcometothejungle.com/en/companies/wttj/jobs/backend-developer-ruby-elixir_paris_WTTJ_9MP4PxM)
+
+[IT manager](https://www.welcometothejungle.com/fr/companies/wttj/jobs/it-manager_paris)
+
+[Back-end developer (intern)](https://www.welcometothejungle.com/fr/companies/wttj/jobs/backend-developer-intern_paris)
+
+[Product manager Welcome Originals (intern)](https://www.welcometothejungle.com/fr/companies/wttj/jobs/product-manager-welcome-originals-intern_paris_WTTJ_jLpqZGr)
+
+[Front-end developer (intern)](https://www.welcometothejungle.com/fr/companies/wttj/jobs/frontend-developer-intern_paris)
+
+If you have any questions about the positions, send us an issue or pull request!
+
+Thanks for reading. As we’ve said, please don’t hesitate to open an issue or pull request for any questions or comments you might have about the newsletter or one of the job vacancies. We will answer you as soon as we can.
+
+# Archives
+
+<details>
+  
+<summary>Welcome Bits #4</summary>
+
 # Welcome Bits #4
 
 ## Bits of learning
@@ -110,8 +204,8 @@ There are currently 7 open positions in the engineering team:
 If you have any questions about the positions, send us an issue or pull request!
 
 Thanks for reading. As we’ve said, please don’t hesitate to open an issue or pull request for any questions or comments you might have about the newsletter or one of the job vacancies. We will answer you as soon as we can.
-
-# Archives
+  
+</details>
 
 <details>
   
