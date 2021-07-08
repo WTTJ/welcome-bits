@@ -4,8 +4,8 @@
 
 [![Generic badge](https://img.shields.io/badge/Type-Newsletter-red)](https://medium.com/wttj-tech)
 [![Generic badge](https://img.shields.io/badge/Frequency-Biweekly-blue)](https://medium.com/wttj-tech)
-[![Generic badge](https://img.shields.io/badge/Open%20tech%20positions-7-green)](https://www.welcometothejungle.com/en/companies/wttj/jobs) 
-[![Generic badge](https://img.shields.io/badge/Engineering%20blog%20articles-6-yellow)](https://medium.com/wttj-tech) 
+[![Generic badge](https://img.shields.io/badge/Open%20tech%20positions-5-green)](https://www.welcometothejungle.com/en/companies/wttj/jobs) 
+[![Generic badge](https://img.shields.io/badge/Engineering%20blog%20articles-8-yellow)](https://medium.com/wttj-tech) 
 
 
 **Welcome, dear \<reader>!**
@@ -43,75 +43,68 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 *This newsletter is a new thing for us, so your suggestions, questions, and comments are more than welcome! Just send us an issue or pull request.*
 
-# Welcome Bits #5
+# Welcome Bits #6
 
 ## Bits of curation
 
-1. [Changes at Basecamp](https://world.hey.com/jason/changes-at-basecamp-7f32afc5)
+1. [From v2.x to v3.x](https://xstyled.dev/docs/upgrade-guide/#from-v2x-to-v3x)
 
-> These changes are clearly the end of an era for the company. Basecamp has always been seen as a utopian place to work as a developer, but this is clearly not the case anymore and the huge ego of the founder seems to have won out.
+> A major update of xstyled, a utility-first CSS-in-JS framework built for React. This new version offers interesting features such as pseudo classes and TypeScript theme bindings.
 
-*Stéphane, full-stack lead developer*
+*François, front-end developer*
 
-2. [Bob dishwasher cassette rewinder](https://github.com/dekuNukem/bob_cassette_rewinder)
+2. [You’ve got to upgrade Rebar3](https://ferd.ca/you-ve-got-to-upgrade-rebar3.html)
 
-> This GitHub repository is a great example of how a developer and a bit of elbow grease can take on the proprietary world! The author hacked a Bob dishwasher detergent cartridge because he wanted to be able to refill used ones instead of buying new cartridges. He managed to reprogram the refilled cartridge so that the dishwasher thought it was a new one.
-
-*Maxime, back-end developer*
-
-3. [The Instagram ads Facebook won’t show you](https://signal.org/blog/the-instagram-ads-you-will-never-see/)
-
-> A blog post about the great ad campaign by Signal that highlights the quantity of data collected by Facebook.
+> A useful article by Fred Hebert urging us all to upgrade Rebar3, as it turns out the SSL validation has been (accidentally) partially disabled for years!
 
 *Stéphane, full-stack lead developer*
 
-4. [Slidev](https://sli.dev)
+3. [Doctoshotgun](https://github.com/rbignon/doctoshotgun)
 
-> A promising tool created by a member of the Vue core team that generates nice slides developers can use in their presentations.
+> A script written in Python that allows you, via the platform Doctolib, to book a Covid-vaccine appointment in France and Germany within seven days.
 
-*Stéphane, full-stack lead developer*
+*Anne-Laure, tech editor*
 
-5. [Basic telemetry for the Audacity](https://github.com/audacity/audacity/pull/835)
+4. [GQless](https://gqless.com)
 
-> A much-discussed PR for the open-source audio editor Audacity: A contributor had wanted to introduce some basic telemetry via Google Analytics and Yandex. A lot of forks were created following the PR. Hopefully the PR has now been closed, as this is the kind of change that can undermine users' trust and make an open-source project end in no time at all.
+> A new implementation of GraphQL that has come out of nowhere and seems quite promising. It’s a bit more evolved than Apollo or Relay as it’s able to deduce the query you need to implement.
 
-*Maxime, back-end developer*
+*Sébastien, full-stack developer*
+
+5. [Chaos Mesh](https://chaos-mesh.org)
+
+> A nice tool for managing chaos engineering when using Kubernetes.
+
+*Charles, devOps*
 
 ## Bits of learning
 
-"There is no magic recipe for building a QA team"
+"Choosing mox over mocks"
 
-> After 12 years of working in QA and testing, I was hired a year ago by Welcome to the Jungle to build its QA team from scratch and to spread a culture of QA within the tech team. Even for an experienced QA manager like me, creating a team from nothing is always a challenge, as the task requires you to constantly question yourself. Here are the 5 lessons I’ve learned so far and that I would like to share, in case they might be helpful for someone else!
+> As explained by [José Valim years ago](http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/), using mocks for unit testing can be problematic.
 > 
-> 1. The best QA team is the one that fits the company’s needs
+> Replacing an API call with some code that sends the expected data will indeed:
+> * change the behavior of an entire module, even for tests that have nothing to do with the API call
+> * potentially disturb tests that are running in parallel
+> * prevent developers from testing the function managing the calls
+>
+> That’s why Valim proposed using a different version of the module instead of replacing the function that manages the calls. For that, a contract—called “behavior” in Elixir—is created to define explicitly expected functions (the arguments and the result) and all versions of the module are committed to respect this contract. If we take the example of calls to the Twitter API, there would be two modules: one that manages real calls (let’s call it TwitterReal) and one that manages fake calls (TwitterMock). If the two modules are implementations of the same contract, TwitterReal can easily be replaced by TwitterMock anywhere it is used and tests can then be executed without having to call Twitter. Sounds nice, right?
+>
+> But now we can go even further thanks to [mox](https://github.com/dashbitco/mox)! This library, approved by Valim himself, adds some flexibility as it allows us to define in our module called TwitterMock a different return to the function for each test, which can be useful if you need to get 10 tweets for one of your tests and an error for another.
 > 
-> Trying to impose a predefined idea of how a QA team should work is the quickest way to fail! It’s important to keep in mind that there is no such thing as an ideal QA team. The best QA team is the one that fulfills all the company’s needs. On the other hand, diving in headlong and starting to implement QA practices without having any discussions with the developers or the rest of the tech team first will, without doubt, lead to building the wrong foundations for the QA team. Therefore, I recommend that the first step should be planning workshops with the different tech team members to understand the existing processes and tools as well as the issues being encountered by the developers. Don't hesitate to refer to models such as [TMMi](https://www.tmmi.org/tmmi-model/) to help you with this.
-> 
-> 2. Approach the creation of the team as you would the delivery of a product
-> 
-> Creating a QA department is a big task that will never be completely finished, which is why you should take the time to define a shared action plan to give a long-term vision—just as you would if you were a product owner. The scope of a QA team can be vast and you won’t be able to implement everything right away. Trying to do so will lead to frustration: Tech team members will feel like no progress is being made despite months of work, while the QA engineers will end up suffering from burnout as they won’t be able to meet all the expectations (which are usually quite high as the QA team has often been created with the idea of solving most of the issues developers have been dealing with). Therefore, prioritize according to the analysis you carried out in step 1. For example, if you know that the application regularly goes down in production when too many users are connected and the risk of functional regression is low, it’s a good idea to prioritize performance tests over regression testing.
-> 
-> 3. Remember that soft skills matter
-> 
-> When the time comes to grow your QA team, you’ll need to start interviewing to find the right candidates to join the rest of you. Testing their technical expertise is one thing, but you should also keep in mind that human skills are just as important as technical ones. It’s crucial for the team’s success to find people who will complement each other in terms of their personalities and who will inspire each other, as well as contribute to creating a mutually supportive environment. Don’t forget also that QA engineers will be in contact with a lot of people in the company—product owners, developers, the help desk and sometimes even the end users. Therefore, having empathy, patience, diplomacy, and an ability to listen and communicate efficiently is imperative. Remember: It’s easier to teach someone QA and testing skills than interpersonal skills!
-> 
-> 4. Build a strong, transversal team spirit
-> 
-> In an Agile environment, QA engineers are often spread out into separate squads, which can have a negative effect on team spirit. So you need to create regular dedicated time slots for the team members to be able to share their best practices, help each other, and feel that they are part of a team full of people who are dealing with the same challenges. It can be difficult to get time set aside for this, as some might consider that it means less time working for their squad —even though it actually is productive in the end!
-> 
-> 5. Make quality every developer’s business
-> 
-> I don’t consider the QA team the one that should be responsible for the quality of the product deliveries. As far as I see it, the QA team is more a support department whose role is to help the other technical departments to deliver the best product possible. This means organizing training, presentations, and workshops to provide these departments with the right tools and methodologies. A lot of patience, some pedagogy, and highlighting a few KPIs will be necessary to convince everyone that quality is a collective effort and taking some responsibility will benefit the whole tech team!
+> But please note that whether you are using mox or not, you will still need to configure a one-shot server to be able to test that the module called TwitterReal is sending HTTP calls to Twitter. For that, try using a library like [bypass](https://github.com/PSPDFKit-labs/bypass).
 
-*Marc, QA manager*
+*Sébastien, full-stack developer*
 
 ## Bits of good vibes
 
-Our team has recently grown again thanks to the arrival of two new members: Aurore, as DevOps engineer, and another David, as back-end developer. Welcome aboard!
+Some of our developers and engineers are now trained in public speaking. We’re really looking forward to participating in some conferences and meetups soon!
 
 ## Bits of jobs
 
-There are currently 7 open positions in the engineering team:
+There are currently 5 open positions in the engineering team:
+
+[Data engineer](https://www.welcometothejungle.com/en/companies/wttj/jobs/data-engineer_paris_WTTJ_P6qr78W)
 
 [Engineering manager](https://www.welcometothejungle.com/en/companies/wttj/jobs/engineering-manager_paris)
 
@@ -119,13 +112,7 @@ There are currently 7 open positions in the engineering team:
 
 [Back-end developer (Elixir, Ruby)](https://www.welcometothejungle.com/en/companies/wttj/jobs/backend-developer-ruby-elixir_paris_WTTJ_9MP4PxM)
 
-[IT manager](https://www.welcometothejungle.com/fr/companies/wttj/jobs/it-manager_paris)
-
-[Back-end developer (intern)](https://www.welcometothejungle.com/fr/companies/wttj/jobs/backend-developer-intern_paris)
-
-[Product manager Welcome Originals (intern)](https://www.welcometothejungle.com/fr/companies/wttj/jobs/product-manager-welcome-originals-intern_paris_WTTJ_jLpqZGr)
-
-[Front-end developer (intern)](https://www.welcometothejungle.com/fr/companies/wttj/jobs/frontend-developer-intern_paris)
+[QA engineer](https://www.welcometothejungle.com/en/companies/wttj/jobs/qa-engineer_paris_WTTJ_e4jZrD7)
 
 If you have any questions about the positions, send us an issue or pull request!
 
