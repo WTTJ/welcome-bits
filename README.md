@@ -71,7 +71,7 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 *Stéphane, full-stack lead developer*
 
-5. [LinkedIn breach reportedly exposes data of 92% of users, including inferred salaries](ttps://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/06/29/linkedin-breach/amp/)
+5. [LinkedIn breach reportedly exposes data of 92% of users, including inferred salaries](https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/06/29/linkedin-breach/amp/)
 
 > XXX
 
