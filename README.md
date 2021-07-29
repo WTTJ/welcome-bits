@@ -47,58 +47,73 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 ## Bits of curation
 
-1. [From v2.x to v3.x](https://xstyled.dev/docs/upgrade-guide/#from-v2x-to-v3x)
+1. [The Flemish Scrollers](https://twitter.com/FlemishScroller)
 
-> A major update of xstyled, a utility-first CSS-in-JS framework built for React. This new version offers interesting features such as pseudo classes and TypeScript theme bindings.
+> XXX
 
-*François, front-end developer*
+*Pierre, product manager*
 
-2. [You’ve got to upgrade Rebar3](https://ferd.ca/you-ve-got-to-upgrade-rebar3.html)
+2. [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
 
-> A useful article by Fred Hebert urging us all to upgrade Rebar3, as it turns out the SSL validation has been (accidentally) partially disabled for years!
+> XXX
+
+*David, back-end developer*
+
+3. [Elixir: Practical Concurrency Cookbook](https://functional.works-hub.com/learn/elixir-practical-concurrency-3794f)
+
+> XXX
 
 *Stéphane, full-stack lead developer*
 
-3. [Doctoshotgun](https://github.com/rbignon/doctoshotgun)
+4. [Linear](https://linear.app/releases/2021-06)
 
-> A script written in Python that allows you, via the platform Doctolib, to book a Covid-vaccine appointment in France and Germany within seven days.
+> XXX
 
-*Anne-Laure, tech editor*
+*Stéphane, full-stack lead developer*
 
-4. [GQless](https://gqless.com)
+5. [LinkedIn breach reportedly exposes data of 92% of users, including inferred salaries](ttps://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/06/29/linkedin-breach/amp/)
 
-> A new implementation of GraphQL that has come out of nowhere and seems quite promising. It’s a bit more evolved than Apollo or Relay as it’s able to deduce the query you need to implement.
-
-*Sébastien, full-stack developer*
-
-5. [Chaos Mesh](https://chaos-mesh.org)
-
-> A nice tool for managing chaos engineering when using Kubernetes.
+> XXX
 
 *Charles, devOps*
 
+6. [Copilot](https://copilot.github.com/)
+
+> XXX
+
+*François, front-end developer*
+
 ## Bits of learning
 
-"Choosing mox over mocks"
+"How to speak in front of an audience"
 
-> As explained by [José Valim years ago](http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/), using mocks for unit testing can be problematic.
-> 
-> Replacing an API call with some code that sends the expected data will indeed:
-> * change the behavior of an entire module, even for tests that have nothing to do with the API call
-> * potentially disturb tests that are running in parallel
-> * prevent developers from testing the function managing the calls
->
-> That’s why Valim proposed using a different version of the module instead of replacing the function that manages the calls. For that, a contract—called “behavior” in Elixir—is created to define explicitly expected functions (the arguments and the result) and all versions of the module are committed to respect this contract. If we take the example of calls to the Twitter API, there would be two modules: one that manages real calls (let’s call it TwitterReal) and one that manages fake calls (TwitterMock). If the two modules are implementations of the same contract, TwitterReal can easily be replaced by TwitterMock anywhere it is used and tests can then be executed without having to call Twitter. Sounds nice, right?
->
-> But now we can go even further thanks to [mox](https://github.com/dashbitco/mox)! This library, approved by Valim himself, adds some flexibility as it allows us to define in our module called TwitterMock a different return to the function for each test, which can be useful if you need to get 10 tweets for one of your tests and an error for another.
-> 
-> But please note that whether you are using mox or not, you will still need to configure a one-shot server to be able to test that the module called TwitterReal is sending HTTP calls to Twitter. For that, try using a library like [bypass](https://github.com/PSPDFKit-labs/bypass).
+> Speaking in front of other people is difficult for many of us, whatever the number of people in front of you is. The fear of being judge, of not being able to answer a question or of faltering is strong and prevent most of us from speaking in public. At WTTJ, we were lucky enough to get some public speaking training sessions which pushed us out of our comfort zone and help us learn how to improve ourselves.
 
-*Sébastien, full-stack developer*
+> Here are a few tips we learned from those sessions and that we wanted to share with you. Our advice is to try them once at a time!
+
+> 1/ Make sure to be comfortable enough with the setup
+> Having the right light on you or being on camera with the right angle will help you get the confidence you need.
+
+> 2/ Write key words as notes
+> Nobody likes to hear a speaker reading his notes with a monotonous voice. The solution is to only write key words on your notes. It will make your speech more spontaneous.
+
+> 3/ Speak slowly
+> Giving enough space to silence (rather than saying « uh » every 10 seconds) will help bring more impact to your speech
+
+> 4/ Use your hands
+> The use of your hands will make your speech look more alive and will give your body a chance to express itself. It will also help create a strong presence in the room.
+
+> 5/ Use concise slides
+> Too much text in your slides will divert your audience. So make sure to be concise and to use graphic illustrations whenever it is possible.
+
+> 6/ Tell your audience a story
+> Keep in mind that people memorize stories way better than facts and figure!
+
+*Shawarma, head of engineering*
 
 ## Bits of good vibes
 
-Some of our developers and engineers are now trained in public speaking. We’re really looking forward to participating in some conferences and meetups soon!
+The company organized a party before the summer holiday. It was great and we were so happy to finally being able to see each other!
 
 ## Bits of jobs
 
@@ -112,7 +127,7 @@ There are currently 5 open positions in the engineering team:
 
 [Back-end developer (Elixir, Ruby)](https://www.welcometothejungle.com/en/companies/wttj/jobs/backend-developer-ruby-elixir_paris_WTTJ_9MP4PxM)
 
-[QA engineer](https://www.welcometothejungle.com/en/companies/wttj/jobs/qa-engineer_paris_WTTJ_e4jZrD7)
+[Senior product manager - content & membership](https://www.welcometothejungle.com/en/companies/wttj/jobs/senior-pm-content-membership_paris)
 
 If you have any questions about the positions, send us an issue or pull request!
 
