@@ -49,37 +49,37 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 1. [The Flemish Scrollers](https://twitter.com/FlemishScroller)
 
-> XXX
+> A Dutch AI project that automatically tags Belgian politician using their phone. Something to extend to other countries? 
 
 *Pierre, product manager*
 
 2. [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
 
-> XXX
+> A handbook to know how to use git is always useful.
 
 *David, back-end developer*
 
 3. [Elixir: Practical Concurrency Cookbook](https://functional.works-hub.com/learn/elixir-practical-concurrency-3794f)
 
-> XXX
+> A nice recap of the good practices to manage concurrency in Elixir.
 
 *Stéphane, full-stack lead developer*
 
 4. [Linear](https://linear.app/releases/2021-06)
 
-> XXX
+> A promising issue tracking tool for growing companies.
 
 *Stéphane, full-stack lead developer*
 
 5. [LinkedIn breach reportedly exposes data of 92% of users, including inferred salaries](https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/06/29/linkedin-breach/amp/)
 
-> XXX
+> A security breach at LinkedIn that reminds us that no company is safe from such thing.
 
 *Charles, devOps*
 
 6. [Copilot](https://copilot.github.com/)
 
-> XXX
+> THE new tool developed by GitHub that everybody is talking about.
 
 *François, front-end developer*
 
