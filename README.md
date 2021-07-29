@@ -43,7 +43,7 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 *This newsletter is a new thing for us, so your suggestions, questions, and comments are more than welcome! Just send us an issue or pull request.*
 
-# Welcome Bits #6
+# Welcome Bits #7
 
 ## Bits of curation
 
@@ -119,6 +119,87 @@ If you have any questions about the positions, send us an issue or pull request!
 Thanks for reading. As we’ve said, please don’t hesitate to open an issue or pull request for any questions or comments you might have about the newsletter or one of the job vacancies. We will answer you as soon as we can.
 
 # Archives
+
+<details>
+  
+<summary>Welcome Bits #6</summary>
+
+# Welcome Bits #6
+
+## Bits of curation
+
+1. [From v2.x to v3.x](https://xstyled.dev/docs/upgrade-guide/#from-v2x-to-v3x)
+
+> A major update of xstyled, a utility-first CSS-in-JS framework built for React. This new version offers interesting features such as pseudo classes and TypeScript theme bindings.
+
+*François, front-end developer*
+
+2. [You’ve got to upgrade Rebar3](https://ferd.ca/you-ve-got-to-upgrade-rebar3.html)
+
+> A useful article by Fred Hebert urging us all to upgrade Rebar3, as it turns out the SSL validation has been (accidentally) partially disabled for years!
+
+*Stéphane, full-stack lead developer*
+
+3. [Doctoshotgun](https://github.com/rbignon/doctoshotgun)
+
+> A script written in Python that allows you, via the platform Doctolib, to book a Covid-vaccine appointment in France and Germany within seven days.
+
+*Anne-Laure, tech editor*
+
+4. [GQless](https://gqless.com)
+
+> A new implementation of GraphQL that has come out of nowhere and seems quite promising. It’s a bit more evolved than Apollo or Relay as it’s able to deduce the query you need to implement.
+
+*Sébastien, full-stack developer*
+
+5. [Chaos Mesh](https://chaos-mesh.org)
+
+> A nice tool for managing chaos engineering when using Kubernetes.
+
+*Charles, devOps*
+
+## Bits of learning
+
+"Choosing mox over mocks"
+
+> As explained by [José Valim years ago](http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/), using mocks for unit testing can be problematic.
+> 
+> Replacing an API call with some code that sends the expected data will indeed:
+> * change the behavior of an entire module, even for tests that have nothing to do with the API call
+> * potentially disturb tests that are running in parallel
+> * prevent developers from testing the function managing the calls
+>
+> That’s why Valim proposed using a different version of the module instead of replacing the function that manages the calls. For that, a contract—called “behavior” in Elixir—is created to define explicitly expected functions (the arguments and the result) and all versions of the module are committed to respect this contract. If we take the example of calls to the Twitter API, there would be two modules: one that manages real calls (let’s call it TwitterReal) and one that manages fake calls (TwitterMock). If the two modules are implementations of the same contract, TwitterReal can easily be replaced by TwitterMock anywhere it is used and tests can then be executed without having to call Twitter. Sounds nice, right?
+>
+> But now we can go even further thanks to [mox](https://github.com/dashbitco/mox)! This library, approved by Valim himself, adds some flexibility as it allows us to define in our module called TwitterMock a different return to the function for each test, which can be useful if you need to get 10 tweets for one of your tests and an error for another.
+> 
+> But please note that whether you are using mox or not, you will still need to configure a one-shot server to be able to test that the module called TwitterReal is sending HTTP calls to Twitter. For that, try using a library like [bypass](https://github.com/PSPDFKit-labs/bypass).
+
+*Sébastien, full-stack developer*
+
+## Bits of good vibes
+
+Some of our developers and engineers are now trained in public speaking. We’re really looking forward to participating in some conferences and meetups soon!
+
+## Bits of jobs
+
+There are currently 5 open positions in the engineering team:
+
+[Data engineer](https://www.welcometothejungle.com/en/companies/wttj/jobs/data-engineer_paris_WTTJ_P6qr78W)
+
+[Engineering manager](https://www.welcometothejungle.com/en/companies/wttj/jobs/engineering-manager_paris)
+
+[Full-Stack developer (Elixir, Ruby, React JS)](https://www.welcometothejungle.com/en/companies/wttj/jobs/full-stack-developer-ruby-elixir-react-js_paris)
+
+[Back-end developer (Elixir, Ruby)](https://www.welcometothejungle.com/en/companies/wttj/jobs/backend-developer-ruby-elixir_paris_WTTJ_9MP4PxM)
+
+[QA engineer](https://www.welcometothejungle.com/en/companies/wttj/jobs/qa-engineer_paris_WTTJ_e4jZrD7)
+
+If you have any questions about the positions, send us an issue or pull request!
+
+Thanks for reading. As we’ve said, please don’t hesitate to open an issue or pull request for any questions or comments you might have about the newsletter or one of the job vacancies. We will answer you as soon as we can.
+
+</details>
 
 <details>
   
