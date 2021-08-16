@@ -10,7 +10,7 @@
 
 **Welcome, dear \<reader>!**
 
-**Every two weeks, we, the engineering team at Welcome to the Jungle, will share news about our tech products, as well as details about the technical topics we’ve been working on. Our newsletter, called Welcome Bits, will also include a curated list of the most interesting links we’ve found out there on the wild wild web.**
+**Every two weeks we, the engineering team at Welcome to the Jungle, will share news about our tech products, as well as details about the technical topics we’ve been working on. Our newsletter, called Welcome Bits, will also include a curated list of the most interesting links we’ve found out there on the wild wild web.**
 
 <details>
 <summary>What is Welcome to the Jungle?</summary>
@@ -87,27 +87,21 @@ If you want to know more about our team, and the tech team in general, take a lo
 
 "How to speak in front of an audience"
 
-> Speaking in front of other people is difficult for many of us, whatever the number of people in front of you is. The fear of being judge, of not being able to answer a question or of faltering is strong and prevent most of us from speaking in public. At WTTJ, we were lucky enough to get some public speaking training sessions which pushed us out of our comfort zone and help us learn how to improve ourselves.
+> Speaking in front of other people is difficult for many of us, no matter the number of people in front of you. The fear of being judged, of not being able to answer a question, or the fear of faltering is strong and prevents many of us from speaking in public. At WTTJ, we were lucky enough to get some public speaking training sessions which pushed us out of our comfort zone and helped us learn how to improve ourselves.
 
-> Here are a few tips we learned from those sessions and that we wanted to share with you. Our advice is to try them once at a time!
-
-> 1/ Make sure to be comfortable enough with the setup
-> Having the right light on you or being on camera with the right angle will help you get the confidence you need.
-
-> 2/ Write key words as notes
-> Nobody likes to hear a speaker reading his notes with a monotonous voice. The solution is to only write key words on your notes. It will make your speech more spontaneous.
-
-> 3/ Speak slowly
-> Giving enough space to silence (rather than saying « uh » every 10 seconds) will help bring more impact to your speech
-
-> 4/ Use your hands
-> The use of your hands will make your speech look more alive and will give your body a chance to express itself. It will also help create a strong presence in the room.
-
-> 5/ Use concise slides
-> Too much text in your slides will divert your audience. So make sure to be concise and to use graphic illustrations whenever it is possible.
-
-> 6/ Tell your audience a story
-> Keep in mind that people memorize stories way better than facts and figure!
+> Here are a few tips we learned from those sessions and that we wanted to share with you. Our advice is to try them one at a time!
+>
+> 1/ Make sure you're comfortable enough with the setup: Having the right light on you or being on camera with the right angle will help you get the confidence you need.
+>
+> 2/ Write key words as notes: Nobody likes to hear a speaker reading his notes with a monotonous voice. The solution is to only write key words for your notes. It will make your speech more spontaneous.
+>
+> 3/ Speak slowly: Giving enough space to silence (rather than saying « uh » every 10 seconds) will help bring more impact to your speech
+>
+> 4/ Use your hands: The use of your hands will make your speech look more alive and will give your body a chance to express itself. It will also help create a strong presence in the room.
+>
+> 5/ Use concise slides: Too much text in your slides will divert your audience. So make sure to be concise and to use graphic illustrations whenever possible.
+>
+> 6/ Tell your audience a story: Keep in mind that people memorize stories way better than facts and figures!
 
 *Shawarma, head of engineering*
 
@@ -119,15 +113,15 @@ The company organized a party before the summer holiday. It was great and we wer
 
 There are currently 5 open positions in the engineering team:
 
-[Data engineer](https://www.welcometothejungle.com/en/companies/wttj/jobs/data-engineer_paris_WTTJ_P6qr78W)
+- [Data engineer](https://www.welcometothejungle.com/en/companies/wttj/jobs/data-engineer_paris_WTTJ_P6qr78W)
 
-[Engineering manager](https://www.welcometothejungle.com/en/companies/wttj/jobs/engineering-manager_paris)
+- [Engineering manager](https://www.welcometothejungle.com/en/companies/wttj/jobs/engineering-manager_paris)
 
-[Full-Stack developer (Elixir, Ruby, React JS)](https://www.welcometothejungle.com/en/companies/wttj/jobs/full-stack-developer-ruby-elixir-react-js_paris)
+- [Full-Stack developer (Elixir, Ruby, React JS)](https://www.welcometothejungle.com/en/companies/wttj/jobs/full-stack-developer-ruby-elixir-react-js_paris)
 
-[Back-end developer (Elixir, Ruby)](https://www.welcometothejungle.com/en/companies/wttj/jobs/backend-developer-ruby-elixir_paris_WTTJ_9MP4PxM)
+- [Back-end developer (Elixir, Ruby)](https://www.welcometothejungle.com/en/companies/wttj/jobs/backend-developer-ruby-elixir_paris_WTTJ_9MP4PxM)
 
-[Senior product manager - content & membership](https://www.welcometothejungle.com/en/companies/wttj/jobs/senior-pm-content-membership_paris)
+- [Senior product manager - content & membership](https://www.welcometothejungle.com/en/companies/wttj/jobs/senior-pm-content-membership_paris)
 
 If you have any questions about the positions, send us an issue or pull request!
 
