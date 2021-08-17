@@ -10,7 +10,7 @@
 
 **Welcome, dear \<reader>!**
 
-**Every two weeks, we, the engineering team at Welcome to the Jungle, will share news about our tech products, as well as details about the technical topics we’ve been working on. Our newsletter, called Welcome Bits, will also include a curated list of the most interesting links we’ve found out there on the wild wild web.**
+**Every two weeks we, the engineering team at Welcome to the Jungle, will share news about our tech products, as well as details about the technical topics we’ve been working on. Our newsletter, called Welcome Bits, will also include a curated list of the most interesting links we’ve found out there on the wild wild web.**
 
 <details>
 <summary>What is Welcome to the Jungle?</summary>
@@ -42,6 +42,96 @@ If you want to know more about our team, and the tech team in general, take a lo
 </details>
 
 *This newsletter is a new thing for us, so your suggestions, questions, and comments are more than welcome! Just send us an issue or pull request.*
+
+# Welcome Bits #7
+
+## Bits of curation
+
+1. [The Flemish Scrollers](https://twitter.com/FlemishScroller)
+
+> A Dutch AI project that automatically tags Belgian politician using their phone. Something to extend to other countries? 
+
+*Pierre, product manager*
+
+2. [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
+
+> A handbook to know how to use git is always useful.
+
+*David, back-end developer*
+
+3. [Elixir: Practical Concurrency Cookbook](https://functional.works-hub.com/learn/elixir-practical-concurrency-3794f)
+
+> A nice recap of the good practices to manage concurrency in Elixir.
+
+*Stéphane, full-stack lead developer*
+
+4. [Linear](https://linear.app/releases/2021-06)
+
+> A promising issue tracking tool for growing companies.
+
+*Stéphane, full-stack lead developer*
+
+5. [LinkedIn breach reportedly exposes data of 92% of users, including inferred salaries](https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/06/29/linkedin-breach/amp/)
+
+> A security breach at LinkedIn that reminds us that no company is safe from such thing.
+
+*Charles, devOps*
+
+6. [Copilot](https://copilot.github.com/)
+
+> THE new tool developed by GitHub that everybody is talking about.
+
+*François, front-end developer*
+
+## Bits of learning
+
+"How to speak in front of an audience"
+
+> Speaking in front of other people is difficult for many of us, no matter the number of people in front of you. The fear of being judged, of not being able to answer a question, or the fear of faltering is strong and prevents many of us from speaking in public. At WTTJ, we were lucky enough to get some public speaking training sessions which pushed us out of our comfort zone and helped us learn how to improve ourselves.
+
+> Here are a few tips we learned from those sessions and that we wanted to share with you. Our advice is to try them one at a time!
+>
+> 1/ Make sure you're comfortable enough with the setup: Having the right light on you or being on camera with the right angle will help you get the confidence you need.
+>
+> 2/ Write key words as notes: Nobody likes to hear a speaker reading his notes with a monotonous voice. The solution is to only write key words for your notes. It will make your speech more spontaneous.
+>
+> 3/ Speak slowly: Giving enough space to silence (rather than saying « uh » every 10 seconds) will help bring more impact to your speech
+>
+> 4/ Use your hands: The use of your hands will make your speech look more alive and will give your body a chance to express itself. It will also help create a strong presence in the room.
+>
+> 5/ Use concise slides: Too much text in your slides will divert your audience. So make sure to be concise and to use graphic illustrations whenever possible.
+>
+> 6/ Tell your audience a story: Keep in mind that people memorize stories way better than facts and figures!
+
+*Shawarma, head of engineering*
+
+## Bits of good vibes
+
+The company organized a party before the summer holiday. It was great and we were so happy to finally being able to see each other!
+
+## Bits of jobs
+
+There are currently 5 open positions in the engineering team:
+
+- [Data engineer](https://www.welcometothejungle.com/en/companies/wttj/jobs/data-engineer_paris_WTTJ_P6qr78W)
+
+- [Engineering manager](https://www.welcometothejungle.com/en/companies/wttj/jobs/engineering-manager_paris)
+
+- [Full-Stack developer (Elixir, Ruby, React JS)](https://www.welcometothejungle.com/en/companies/wttj/jobs/full-stack-developer-ruby-elixir-react-js_paris)
+
+- [Back-end developer (Elixir, Ruby)](https://www.welcometothejungle.com/en/companies/wttj/jobs/backend-developer-ruby-elixir_paris_WTTJ_9MP4PxM)
+
+- [Senior product manager - content & membership](https://www.welcometothejungle.com/en/companies/wttj/jobs/senior-pm-content-membership_paris)
+
+If you have any questions about the positions, send us an issue or pull request!
+
+Thanks for reading. As we’ve said, please don’t hesitate to open an issue or pull request for any questions or comments you might have about the newsletter or one of the job vacancies. We will answer you as soon as we can.
+
+# Archives
+
+<details>
+  
+<summary>Welcome Bits #6</summary>
 
 # Welcome Bits #6
 
@@ -118,7 +208,7 @@ If you have any questions about the positions, send us an issue or pull request!
 
 Thanks for reading. As we’ve said, please don’t hesitate to open an issue or pull request for any questions or comments you might have about the newsletter or one of the job vacancies. We will answer you as soon as we can.
 
-# Archives
+</details>
 
 <details>
   
